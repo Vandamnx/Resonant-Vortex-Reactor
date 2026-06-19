@@ -1,4 +1,4 @@
-# Resonant-Vortex-ReactorResonant Vortex Reactor 
+# Resonant-Vortex-Reactor 
 (Gali-Spinal Tube) - Healing v4.6 Land Version with Antenna Base
 # Resonant Vortex Reactor (Gali-Spinal Tube)
 
