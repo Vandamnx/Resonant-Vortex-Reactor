@@ -5,8 +5,8 @@ Simple physics-based model for temperature effects, MR viscosity, and estimated 
 This is an educational starter script. Real-world results will vary.
 """
 
-import numpy as np
-import matplotlib.pyplot as plt
+pip install numpy matplotlib numba   # numba is optional
+python sim_v4.6_optimized.py
 
 # ==================== PARAMETERS ====================
 # Base parameters for Healing v4.6 Land Version
