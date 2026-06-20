@@ -8,6 +8,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write          # ← This fixes the write access error
+
 jobs:
   generate-toc:
     name: Generate Table of Contents
