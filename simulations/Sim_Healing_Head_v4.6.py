@@ -4,7 +4,6 @@ Simple physics-based model for temperature effects, MR viscosity, and estimated 
 
 This is an educational starter script. Real-world results will vary.
 """
-
 pip install numpy matplotlib
 python sim_v4.6.py
 
