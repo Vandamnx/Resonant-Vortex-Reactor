@@ -1,0 +1,38 @@
+name: Docs - TOC + Lint
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  generate-toc:
+    name: Generate Table of Contents
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate TOC
+        uses: technote-space/toc-generator@v4
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOC_TITLE: '## Table of Contents'
+          FOLDING: false
+          MAX_HEADER_LEVEL: 3
+
+  lint-markdown:
+    name: Lint Markdown Files
+    runs-on: ubuntu-latest
+    needs: generate-toc
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Lint Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          globs: '**/*.md'
