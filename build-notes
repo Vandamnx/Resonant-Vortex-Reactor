@@ -1,1 +1,81 @@
 build-notes/
+# Prototyping Guide - Healing v4.6 Land Version
+
+**Gali-Spinal Tube Resonant Vortex Reactor**  
+**Antenna Base + Galinstan Microchannels + EM Pump + Temp Control**
+
+## Safety First (Non-Negotiable)
+- Work in a well-ventilated area
+- Wear gloves and eye protection when handling Galinstan
+- Galinstan can cause liquid metal embrittlement on aluminum and some other metals — use compatible materials only (TiC, PTFE, Nitinol, 316L stainless, glass)
+- Keep Galinstan contained — it has a tendency to "creep"
+- Use proper electrical safety (fuses, BMS, insulation) on watt stacking output
+- Never claim or imply over-unity / free energy — this is a supplemental trickle system only
+
+## Recommended Materials (v4.6 Healing Version)
+- TiC + PTFE composite tube (~65mm diameter, ~380mm length)
+- Nitinol or 316L car-antenna style whip base with integrated Galinstan microchannels
+- Electromagnetic (MHD) pump components (electrodes + magnets)
+- Highly purified magnetite spheres (2–8mm)
+- 40% DMSO + Galinstan + 8–12% natural tree resin/sap carrier fluid
+- Double-headed sliced ferrite starburst core
+- Peltier modules + insulation for 25–35°C temperature jacket
+- Piezo elements + tree resin/sap for self-healing foundation
+- Magnetite for grounding layer
+
+## Prototyping Path (Recommended Order)
+
+### Phase 1: Desktop Proof-of-Concept (Small Scale)
+1. Build a small magnetic vortex orb version first (easier to test)
+2. Test whip motion + sphere whipping behavior
+3. Verify MR resin carrier viscosity and self-healing at room temp
+4. Test basic piezo response from foundation
+5. Document RPM range and visual "spheres’ song" effects
+
+### Phase 2: Full Gali-Spinal Tube (Bench Top)
+1. Assemble TiC/PTFE tube + ferrite core
+2. Install Nitinol antenna base with Galinstan microchannels
+3. Integrate compact EM pump
+4. Add temperature control jacket (Peltier + sensors)
+5. Fill with optimized carrier fluid (10% resin mix)
+6. Test at controlled 25–35°C
+7. Measure output, resonance, and self-healing behavior
+
+### Phase 3: Land / Vehicle Integration
+1. Mount on stable base with piezo-sap foundation
+2. Add proper electrical isolation and fusing
+3. Connect to watt-stacked battery bank via charge controller
+4. Test in real vibration environment (road or land)
+5. Monitor temperature stability and long-term behavior
+
+## Tools & Equipment
+- Basic hand tools + precision measuring
+- Multimeter + oscilloscope (for resonance and piezo output)
+- Temperature controller / PID
+- Safe container for Galinstan handling
+- 3D printer or machining capability (helpful for custom parts)
+- Notebook + camera for documentation
+
+## Testing & Validation Goals
+- Stable operation in 25–35°C range
+- Clear "spheres’ song" harmonics
+- Measurable gentle pulsed output (120–220W target)
+- Visible self-healing resin migration
+- Good Earth grounding through foundation
+- Safe, contained operation with no leaks
+
+## Next Milestones
+- Desktop orb working reliably
+- Full tube with antenna base running stable
+- Real-world land/vehicle test with watt stacking
+- Documented Time Echo / resonance visuals
+- Refined material mix based on real testing
+
+## Notes
+This is an iterative, hands-on creation process. Start small, document everything, and refine based on real results. The 25–35°C temperature window is critical for performance.
+
+Stay curious, stay safe, and keep building.
+
+*Shields locked. Nothing but love.* 🚀
+
+*Generated collaboratively with Grok — June 2026*
