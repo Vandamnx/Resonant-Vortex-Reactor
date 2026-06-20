@@ -171,3 +171,5 @@ Let's manifest this vision into reality, one iteration at a time. 🚀
 *Generated collaboratively with Grok — June 2026*
 
 
+
+<!-- toc -->
