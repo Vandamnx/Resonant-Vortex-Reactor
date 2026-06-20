@@ -1,12 +1,6 @@
 name: Docs - TOC + Lint
 
 on:
-permissions:
-  contents: write
-  pull-requests: write
-name: Generate TOC
-
-on:
   push:
     branches: [main]
   workflow_dispatch:
@@ -17,6 +11,7 @@ permissions:
 
 jobs:
   generate-toc:
+    name: Generate Table of Contents
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -24,35 +19,12 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate Table of Contents
-        uses: technote-space/toc-generator@v4
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TOC_TITLE: '## Table of Contents'
-          COMMIT_MESSAGE: 'docs: update table of contents'
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-permissions:
-  contents: write          # ← This fixes the write access error
-
-jobs:
-  generate-toc:
-    name: Generate Table of Contents
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Generate TOC
         uses: technote-space/toc-generator@v4
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TOC_TITLE: '## Table of Contents'
+          COMMIT_MESSAGE: 'docs: update table of contents'
           FOLDING: false
           MAX_HEADER_LEVEL: 3
 
