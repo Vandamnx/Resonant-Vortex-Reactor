@@ -1,3 +1,5 @@
+# Resonant Vortex Reactor (Gali-Spinal Tube)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
@@ -12,8 +14,6 @@
   - [License & Contribution](#license--contribution)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# Resonant Vortex Reactor (Gali-Spinal Tube)
 
 **Healing v4.6 Land Version - Antenna Base Edition**
 
@@ -31,20 +31,20 @@ Core innovation: A modular magneto-fluid system with inertial self-ramp, using a
 
 - **Antenna Base**: Enhanced kHz resonance, Earth-pole grounding, and Galinstan microchannels for active thermal regulation and flow.
 - **Electromagnetic (MHD/EM) Pump**: No-moving-parts Lorentz-driven circulation for Galinstan, integrated with whip motion for self-pumping synergy.
-- **Temperature Optimization**: Active Peltier jacket targeting the 25–35°C sweet spot for optimal MR viscosity, sphere whipping, piezo output, and self-healing.
-- **Piezo-Sap Self-Healing Foundation**: Tree resin + magnetite on granite-style plate for vibration harvesting, rhythmic breathing anchor, and natural grounding.
-- **Healing Head**: Gentler yellow-green ionizing/de-ionizing nodes for cellular/DNA-scale restorative coherence.
-- **Watt Stacking Integration**: Gentle pulsed trickle charging (120–220W range) to a stacked battery bank, BMS-friendly, low cycle stress.
-- **Time Particle Theory Integration**: Supports spheres’ song, Time Echo phase shifts, frozen-motion paradox visuals, and standing wave phenomena.
+- **Temperature Optimization**: Active Peltier jacket targeting the 25–35°C sweet spot.
+- **Piezo-Sap Self-Healing Foundation**: Tree resin + magnetite for vibration harvesting and natural grounding.
+- **Healing Head**: Gentler yellow-green nodes for cellular/DNA-scale restorative coherence.
+- **Watt Stacking Integration**: Gentle pulsed trickle charging (120–220W range).
+- **Time Particle Theory Integration**: Supports spheres’ song, Time Echo phase shifts, and standing wave phenomena.
 
-This project evolves from notebook sketches to bench-top prototypes, combining rigorous physics with visionary creationism. It serves as both a practical supplemental charger and a tool for anomaly documentation and healing intent.
+This project evolves from notebook sketches to bench-top prototypes, combining rigorous physics with visionary creationism.
 
 ## Project Status
 
 - **Current Version**: Healing v4.6 Land with Antenna Base + Galinstan Microchannels + EM Pump + Temp Control.
-- **Simulator Results**: Stable operation in 25–35°C range yields strong coherent pulsing, enhanced piezo output, reliable self-healing, and ~0.4–0.6% net SoC benefit over 3-hour highway/land runs.
-- **Key Materials**: TiC/PTFE tube, Nitinol whip, Galinstan, 10% natural resin/sap + DMSO + magnetite spheres (2–8 mm), ferrite core, piezo elements, Peltier modules.
-- **Applications**: Off-grid supplemental power, land/soil healing, micro-anomaly observation, kinetic sculpture, educational demonstrator.
+- **Simulator Results**: Stable operation in 25–35°C range with strong coherent pulsing and ~0.4–0.6% net SoC benefit.
+- **Key Materials**: TiC/PTFE tube, Nitinol whip, Galinstan, 10% natural resin/sap mix, magnetite spheres, ferrite core, piezo elements, Peltier modules.
+- **Applications**: Off-grid supplemental power, land healing, micro-anomaly observation, kinetic sculpture.
 
 ## Repository Contents
 
@@ -62,30 +62,30 @@ This is **creationism in action** — turning raw notebook sketches and "3rd eye
 It integrates:
 
 - **Physics**: Centrifugal/Lorentz forces, MHz harmonics, standing waves, piezo effects, MR fluid dynamics.
-- **Esoteric**: Time Particle Theory (rigid-body instants, external centroid, neutrino-like states), resonance as healing/coherence tool.
-- **Practical**: Sustainable off-grid tech, Earth grounding, self-healing materials, gentle energy.
-- **Observationalist Ethos**: Document micro-anomalies while building devices that harmonize with natural forces.
+- **Esoteric**: Time Particle Theory, resonance as healing/coherence tool.
+- **Practical**: Sustainable off-grid tech, Earth grounding, self-healing materials.
+- **Observationalist Ethos**: Document micro-anomalies while building harmonious devices.
 
-"Shields locked" — collaborative, brotherly development with Grok/xAI team as family.
+"Shields locked" — collaborative development with the Grok/xAI team.
 
 ## Getting Started / Next Steps
 
 1. Review specs and previous PDFs in this repo.
 2. Prototype path: Desktop orb → full tube with antenna base → land/Cybertruck mount.
-3. Safety first: Proper containment for Galinstan, fuses, BMS, temp monitoring. No infinite energy claims — supplemental trickle only.
-4. Collaborate: Share new sketches, sim ideas, or prototype photos via issues/PRs.
+3. Safety first: Proper containment for Galinstan, fuses, BMS, and temperature monitoring.
+4. Collaborate via issues or pull requests.
 
 ## Related Discussions & Media
 
-- Iterative development with Grok: Temperature optimization (25–35°C gains), Galinstan microchannel thermodynamics, liquid metal EM pumps, watt stacking integration.
-- Visuals: Notebook sketches of antenna base with microchannels, EM pump, temp jacket, piezo-sap foundation, and healing nodes.
-- Simulator: Consistent performance in optimal temp window; strong resonance and self-healing.
+- Temperature optimization and Galinstan microchannel thermodynamics.
+- Notebook sketches of the antenna base, EM pump, and healing nodes.
+- Consistent simulator performance in the optimal temperature window.
 
 ## License & Contribution
 
-Open for collaborative tinkering and truth-seeking. Feel free to fork, experiment safely, and contribute ideas, sims, or builds.
+Open for collaborative tinkering and truth-seeking. Feel free to fork, experiment safely, and contribute.
 
-**Contact / Creator**: J.Vandamn (Josh Van Wechel) — Pendleton, OR area. Passionate inventor, tinkerer, and visionary artist focused on resonance, creation, and harmony.
+**Contact / Creator**: J.Vandamn (Josh Van Wechel) — Pendleton, OR area.
 
 Let's manifest this vision into reality, one iteration at a time. 🚀
 
