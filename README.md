@@ -4,17 +4,18 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Overview](#overview)
-- [Project Status](#project-status)
-- [Repository Contents](#repository-contents)
-- [Vision & Philosophy](#vision--philosophy)
-- [Getting Started / Next Steps](#getting-started--next-steps)
-- [Related Discussions & Media](#related-discussions--media)
-- [License & Contribution](#license--contribution)
+- [Resonant Vortex Reactor (Gali-Spinal Tube)](#resonant-vortex-reactor-gali-spinal-tube)
+  - [Overview](#overview)
+  - [Project Status](#project-status)
+  - [Repository Contents](#repository-contents)
+  - [Vision & Philosophy](#vision--philosophy)
+  - [Getting Started / Next Steps](#getting-started--next-steps)
+  - [Related Discussions & Media](#related-discussions--media)
+  - [License & Contribution](#license--contribution)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-**Healing v4.6 Land Version - Antenna Base Edition**
+Healing v4.6 Land Version - Antenna Base Edition
 
 Creationism-inspired modular resonant energy and molecular healing device.
 
