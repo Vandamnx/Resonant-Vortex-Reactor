@@ -16,7 +16,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Overview
-...
+
 - [Overview](#overview)
 - [Project Status](#project-status)
 - [Repository Contents](#repository-contents)
