@@ -1,9 +1,12 @@
-# Resonant Vortex Reactor (Gali-Spinal Tube) #
+# Resonant Vortex Reactor (Gali-Spinal Tube)
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- START doctoc generated TOC ... -->
 ## Table of Contents
+...
+<!-- END doctoc generated TOC ... -->
 
+## Overview
+...
 - [Overview](#overview)
 - [Project Status](#project-status)
 - [Repository Contents](#repository-contents)
