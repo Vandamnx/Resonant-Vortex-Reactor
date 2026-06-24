@@ -4,13 +4,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Overview](#overview)
-- [Project Status](#project-status)
-- [Repository Contents](#repository-contents)
-- [Vision & Philosophy](#vision--philosophy)
-- [Getting Started / Next Steps](#getting-started--next-steps)
-- [Related Discussions & Media](#related-discussions--media)
-- [License & Contribution](#license--contribution)
+- [Resonant Vortex Reactor (Gali-Spinal Tube)](#resonant-vortex-reactor-gali-spinal-tube)
+  - [Overview](#overview)
+  - [Project Status](#project-status)
+  - [Repository Contents](#repository-contents)
+  - [Vision & Philosophy](#vision--philosophy)
+  - [Getting Started / Next Steps](#getting-started--next-steps)
+  - [Related Discussions & Media](#related-discussions--media)
+  - [License & Contribution](#license--contribution)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -29,9 +30,9 @@ Core innovation: A modular magneto-fluid system with inertial self-ramp, using a
 **Key Features in v4.6**:
 
 - **Antenna Base**: Enhanced kHz resonance, Earth-pole grounding, and Galinstan microchannels for active thermal regulation and flow.
-- **Electromagnetic (MHD/EM) Pump**: No moving parts Lorentz driven circulation for Galinstan, integrated with whip motion for self-pumping synergy.
+- **Electromagnetic (MHD/EM) Pump**: No-moving-parts Lorentz-driven circulation for Galinstan, integrated with whip motion for self-pumping synergy.
 - **Temperature Optimization**: Active Peltier jacket targeting the 25–35°C sweet spot.
-- **Piezo Sap Self Healing Foundation**: Tree resin + magnetite for vibration harvesting and natural grounding.
+- **Piezo-Sap Self-Healing Foundation**: Tree resin + magnetite for vibration harvesting and natural grounding.
 - **Healing Head**: Gentler yellow-green nodes for cellular/DNA-scale restorative coherence.
 - **Watt Stacking Integration**: Gentle pulsed trickle charging (120–220W range).
 - **Time Particle Theory Integration**: Supports spheres’ song, Time Echo phase shifts, and standing wave phenomena.
