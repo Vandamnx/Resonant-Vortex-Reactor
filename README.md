@@ -4,26 +4,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Overview](#overview)
-- [Overview](#overview-1)
-- [Project Status](#project-status)
-- [Repository Contents](#repository-contents)
-- [Vision & Philosophy](#vision--philosophy)
-- [Getting Started / Next Steps](#getting-started--next-steps)
-- [Related Discussions & Media](#related-discussions--media)
-- [License & Contribution](#license--contribution)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Overview
-
-- [Overview](#overview)
-- [Project Status](#project-status)
-- [Repository Contents](#repository-contents)
-- [Vision & Philosophy](#vision--philosophy)
-- [Getting Started / Next Steps](#getting-started--next-steps)
-- [Related Discussions & Media](#related-discussions--media)
-- [License & Contribution](#license--contribution)
+- [Resonant Vortex Reactor (Gali-Spinal Tube)](#resonant-vortex-reactor-gali-spinal-tube)
+  - [Overview](#overview)
+  - [Project Status](#project-status)
+  - [Repository Contents](#repository-contents)
+  - [Vision & Philosophy](#vision--philosophy)
+  - [Getting Started / Next Steps](#getting-started--next-steps)
+  - [Related Discussions & Media](#related-discussions--media)
+  - [License & Contribution](#license--contribution)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
