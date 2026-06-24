@@ -5,7 +5,6 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Overview](#overview-1)
 - [Project Status](#project-status)
 - [Repository Contents](#repository-contents)
 - [Vision & Philosophy](#vision--philosophy)
