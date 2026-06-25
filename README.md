@@ -4,13 +4,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Overview](#overview)
-- [Project Status](#project-status)
-- [Repository Contents](#repository-contents)
-- [Vision & Philosophy](#vision--philosophy)
-- [Getting Started / Next Steps](#getting-started--next-steps)
-- [Related Discussions & Media](#related-discussions--media)
-- [License & Contribution](#license--contribution)
+- [Resonant Vortex Reactor (Gali-Spinal Tube)](#resonant-vortex-reactor-gali-spinal-tube)
+  - [Overview](#overview)
+  - [Project Status](#project-status)
+  - [Repository Contents](#repository-contents)
+  - [Vision & Philosophy](#vision--philosophy)
+  - [Getting Started / Next Steps](#getting-started--next-steps)
+  - [Related Discussions & Media](#related-discussions--media)
+  - [License & Contribution](#license--contribution)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -20,11 +21,15 @@ Creationism-inspired modular resonant energy and molecular healing device.
 
 ## Overview
 
-The Resonant Vortex Reactor (also known as the Gali-Spinal Tube) is a visionary, hands-on invention blending advanced physics, resonance phenomena, bio-mimicry, and esoteric principles.
+The Resonant Vortex Reactor (also known as the Gali-Spinal Tube) is a visionary, hands-on invention.
+
+It blends advanced physics, resonance phenomena, bio-mimicry, and esoteric principles.
 
 This Healing v4.6 Land Version focuses on gentle restorative coherence for land/soil healing, anomaly observation ("Observationalist" practice), and supplemental off-grid energy via watt stacking.
 
-Core innovation: A modular magneto-fluid system with inertial self-ramp, using a sealed Gali-line tube (TiC + PTFE), 10% MR resin/DMSO/Galinstan carrier with purified magnetite spheres, double-headed ferrite starburst core, and a car-antenna-style Nitinol/316L whip base with Galinstan microchannels.
+Core innovation: A modular magneto-fluid system with inertial self-ramp.
+
+It uses a sealed Gali-line tube (TiC + PTFE), 10% MR resin/DMSO/Galinstan carrier with purified magnetite spheres, a double-headed ferrite starburst core, and a car-antenna-style Nitinol/316L whip base with Galinstan microchannels.
 
 **Key Features in v4.6**:
 
