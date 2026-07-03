@@ -1,105 +1,49 @@
 """
-Resonant Vortex Reactor - Healing v4.6 Simulation
-Simple physics-based model for temperature effects, MR viscosity, and estimated output.
+Resonant Vortex Reactor (RVR) – Molecular Healing Head v4.1 Simulation
+Starter stub for central field coherence modeling
 
-This is an educational starter script. Real-world results will vary.
+This script models the conceptual "healing field" at the center of the
+5-fold symmetric Molecular Healing Head (MHH v4.1).
+
+Core ideas modeled:
+- Multi-frequency input (Schumann 7.83 Hz fundamental + healing harmonics)
+- Constructive interference at the central node (starburst)
+- Magnetic field amplification from highly purified magnetite spheres
+- Ion node balance (+ ionized / – de-ionized)
+- Resulting restorative molecular coherence field
+
+This is an educational conceptual model only.
+Real device physics is significantly more complex.
+
+Run: python Healing_head_sim.py
 """
-pip install numpy matplotlib
-python sim_v4.6.py
 
-# ==================== PARAMETERS ====================
-# Base parameters for Healing v4.6 Land Version
-BASE_TEMP = 30.0          # °C (center of sweet spot)
-MIN_TEMP = 15.0
-MAX_TEMP = 45.0
-RESIN_PERCENT = 10.0      # % resin in carrier (sweet spot ~8-12%)
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.io.wavfile import write
+from scipy.fft import fft, fftfreq
 
-# Estimated performance at optimal conditions
-OPTIMAL_OUTPUT_W = 180.0  # Watts (midpoint of 120-220W range)
-OPTIMAL_RPM = 50000       # Average sphere/whip RPM
+# ============================================================
+#                        PARAMETERS
+# ============================================================
 
-# Simple viscosity model (arbitrary units for demo)
-def viscosity_vs_temp(temp_c):
-    """Higher temp = lower viscosity (better flow up to a point)"""
-    # Simple linear approximation around sweet spot
-    return max(0.5, 2.0 - 0.05 * (temp_c - 20))
+fs = 44100                    # sample rate (Hz)
+duration = 5.0                # seconds
+t = np.linspace(0, duration, int(fs * duration))
 
-def estimated_output(temp_c, resin_pct):
-    """Rough model: output peaks around 25-35°C and optimal resin %"""
-    temp_factor = max(0.3, 1.0 - 0.04 * abs(temp_c - 30))
-    resin_factor = max(0.6, 1.0 - 0.05 * abs(resin_pct - 10))
-    return OPTIMAL_OUTPUT_W * temp_factor * resin_factor
+# === Frequency set from project spec ===
+frequencies = [7.83, 432, 528, 741]   # Schumann + healing sweet spots
 
-def estimated_rpm(temp_c):
-    """Higher viscosity at low temp reduces effective RPM"""
-    visc = viscosity_vs_temp(temp_c)
-    return int(OPTIMAL_RPM * (1.2 / visc))
+# === Device parameters (tune these) ===
+num_spheres = 100_000         # highly purified magnetite (Fe3O4) spheres
+B_base = 0.8                  # base magnetic field contribution (Tesla)
+B_boost = 1.0 + (num_spheres / 100_000) * 0.6   # simplistic amplification factor
 
-# ==================== SIMULATION ====================
-def run_simulation():
-    print("=== Healing v4.6 Resonant Vortex Reactor Simulation ===\n")
-    print(f"Resin mix: {RESIN_PERCENT}%")
-    print(f"Optimal temp range: 25–35°C\n")
+ion_balance = 0.65            # 0.0 = all de-ion (blue), 1.0 = all ionized (green)
+                              # 0.65 = slightly more + ion nodes active (healing bias)
 
-    temps = np.linspace(MIN_TEMP, MAX_TEMP, 13)
-    results = []
+# ============================================================
+#                    CENTRAL FIELD MODEL
+# ============================================================
 
-    print(f"{'Temp (°C)':<10} {'Viscosity':<12} {'Est. RPM':<12} {'Est. Output (W)':<18}")
-    print("-" * 55)
-
-    for t in temps:
-        visc = viscosity_vs_temp(t)
-        rpm = estimated_rpm(t)
-        output = estimated_output(t, RESIN_PERCENT)
-        results.append((t, visc, rpm, output))
-        print(f"{t:<10.1f} {visc:<12.2f} {rpm:<12} {output:<18.1f}")
-
-    # Find best temperature
-    best = max(results, key=lambda x: x[3])
-    print(f"\nBest performance around: {best[0]:.1f}°C → ~{best[3]:.0f}W")
-
-    # Optional plotting
-    try:
-        plot_results(temps, results)
-    except:
-        print("\n(Install matplotlib for plots: pip install matplotlib)")
-
-def plot_results(temps, results):
-    outputs = [r[3] for r in results]
-    rpms = [r[2] for r in results]
-
-    fig, ax1 = plt.subplots()
-
-    color = 'tab:blue'
-    ax1.set_xlabel('Temperature (°C)')
-    ax1.set_ylabel('Estimated Output (W)', color=color)
-    ax1.plot(temps, outputs, color=color, marker='o', label='Output (W)')
-    ax1.tick_params(axis='y', labelcolor=color)
-    ax1.axvspan(25, 35, alpha=0.2, color='green', label='Sweet Spot (25-35°C)')
-
-    ax2 = ax1.twinx()
-    color = 'tab:red'
-    ax2.set_ylabel('Estimated RPM', color=color)
-    ax2.plot(temps, rpms, color=color, marker='s', linestyle='--', label='RPM')
-    ax2.tick_params(axis='y', labelcolor=color)
-
-    plt.title('Healing v4.6 - Temperature vs Performance (Simple Model)')
-    fig.tight_layout()
-    plt.legend(loc='upper right')
-    plt.grid(True, alpha=0.3)
-    plt.show()
-
-if __name__ == "__main__":
-    run_simulation()
-    print("\nSimulation complete. Modify parameters and re-run to explore!")
-```
-
-This is a clean, educational starter script. It includes:
-- Temperature vs viscosity model
-- Estimated output and RPM calculations
-- Console table + optional matplotlib plots
-- Clear comments
-
-The user can run it locally and expand it (add more physics, Monte Carlo, etc.).
-
-Now, save it and tell the user it's ready for the repo (e.g., in a `simulations/` or root folder).
+def generate_central_he
