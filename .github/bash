@@ -1,0 +1,4 @@
+cd simulations
+python Schumann_harmonics_sim.py
+python MHD_Lorentz_Sim.py
+python Healing_head_sim.py
