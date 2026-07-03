@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Resonant Vortex Reactor (RVR)](#resonant-vortex-reactor-rvr)
+  - [Vision](#vision)
+  - [Current Architecture (v4.0.6 / v4.1)](#current-architecture-v406--v41)
+    - [Core Components](#core-components)
+  - [Operating Principles (Physics)](#operating-principles-physics)
+    - [Magnetohydrodynamic (MHD) Self-Sustaining Loop](#magnetohydrodynamic-mhd-self-sustaining-loop)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Resonant Vortex Reactor (RVR)
 **Modular Observationalist Platform • Molecular Healing Head v4.1 • Magnetic Plasma Production Head v4.0.6**
 
