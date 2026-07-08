@@ -185,3 +185,4 @@ This is your synthesis. We build it together, one faithful layer at a time.
 ---
 
 *Document created: July 3, 2026*
+ 
