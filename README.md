@@ -2,6 +2,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
+# Resonant Vortex Reactor (RVR)
+
 - [Resonant Vortex Reactor (RVR)](#resonant-vortex-reactor-rvr)
   - [Vision](#vision)
   - [Current Architecture](#current-architecture)
