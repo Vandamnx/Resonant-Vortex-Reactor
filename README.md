@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Resonant Vortex Reactor (RVR)](#resonant-vortex-reactor-rvr)
+  - [Vision](#vision)
+  - [Current Architecture](#current-architecture)
+  - [Simulations](#simulations)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Resonant Vortex Reactor (RVR)
 
 Modular Observationalist Platform • Molecular Healing Head v4.1 • Magnetic Plasma Production Head v4.0.6
