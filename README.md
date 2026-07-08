@@ -1,45 +1,61 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
+# Resonant Vortex Reactor
 
-- [Resonant Vortex Reactor (RVR)](#resonant-vortex-reactor-rvr)
-  - [Current Architecture](#current-architecture)
-  - [Simulations](#simulations)
+**Exploring coherent twist-force systems and their potential coupling to fundamental time structure.**
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# Resonant Vortex Reactor (RVR)
-
-**Status:** Active conceptual development — July 2026
-
-The Resonant Vortex Reactor is a modular platform exploring macroscopic resonance, twist-force dynamics, and potential time-particle modulation effects through engineered magnetic-fluid systems.
-
-Core architecture centers on the **Gali-Spinal Tube** — a high-RPM rotating system using an unbalanced whip head, magnetized magnetite sphere chain, double-headed ferrite core, and pure iron return path, operating with carrier fluids such as deionized water or Galinstan variants.
-
-Two primary head configurations are under development:
-
-- **Molecular Healing Head (v4.1)** — Focused on restorative molecular coherence and time-reversal-dominant dynamics.
-- **Magnetic Plasma Production Head (v4.0.6)** — Focused on energy-oriented, time-forward-dominant operation.
+The Resonant Vortex Reactor (Gali-Spinal Tube) is an experimental platform designed to generate sustained twist-force standing waves through high-RPM unbalanced rotation of magnetized media. The project investigates whether organized macroscopic twist, under specific conditions of external centroid stability and harmonic threshold events, can produce measurable effects on local timing, spin dynamics, and anomaly behavior — consistent with the hypothesis of modulating discrete rigid-body time instants.
 
 ---
 
-## Current Architecture
+## Current Status (July 2026)
 
-Full technical specifications are maintained in:
+- Core v4+ architecture defined (TiC + PTFE structural tube, unbalanced spiny whip head, magnetite sphere chain, double-headed ferrite starburst core, pure iron return path, dual polarity nodes).
+- Bench-top magnetic vortex orb prototype constructed.
+- Time Particle Theory document under active development.
+- Experimental testing protocols written for torsion-like / twist-force signatures.
+- Simulation work and build documentation in progress.
 
-- `specs/RVR_Spec_Sheet_v4.0.6.md` — Main project specification (architecture, materials, MHD principles, roadmap)
-- `specs/v4.3.2.md` — Gali-Spinal Tube v4.3.2 detailed construction and performance specs
-- `Time-particle-theory.md` — Foundational theoretical framework
-- `Experimental Testing – Torsion-like Signatures (v4+).md` — Proposed experimental protocols
+This is an **early-stage experimental project**. Significant work remains in physical testing, measurement, and theoretical refinement.
 
 ---
 
-## Simulations
+## Core Architecture (v4+)
 
-Runnable Python stubs are located in the `simulations/` folder:
+- Unbalanced spiny whip head for inertial self-ramp and rhythmic twist injection
+- Chain of highly purified magnetized magnetite spheres in carrier fluid
+- Double-headed sliced ferrite starburst core with pure iron magnetic return path
+- Dual polarity nodes (ionizing / time-forward and de-ionizing / time-reversal)
+- Emphasis on external centroid stability and reaching sonic threshold events
 
-```bash
-cd simulations
-python MHD_Lorentz_Sim.py          # Self-sustaining MHD loop
-python Schumann_harmonics_sim.py   # Schumann + healing frequency composite
-python Healing_head_sim.py         # Central healing field interference model
+See the experimental testing document for detailed protocols and predicted signatures.
+
+---
+
+## Documentation
+
+- [Time Particle Theory](Time-particle-theory.md) — Foundational theoretical framework
+- [Experimental Testing – Torsion-like Signatures (v4+)](Experimental%20Testing%20–%20Torsion-like%20Signatures%20(v4+).md) — Test protocols and predicted observables
+- [Build Notes](build-notes) — Development history and notes
+- [Sketches](sketches) — Visual development of the device and concepts
+
+---
+
+## Vision
+
+The long-term aim is to explore whether coherent, engineered twist-force systems can interact with the underlying structure of time in measurable ways, with potential implications for energy, coherence, and fundamental physics. This work is pursued with rigorous experimental intent while remaining open to the deeper philosophical and participatory dimensions that may be involved.
+
+---
+
+## Next Steps
+
+- Controlled high-RPM testing with multi-sensor logging on isolated platforms
+- Refinement of measurement techniques for timing, torque, and anomaly detection
+- Continued iteration on physical prototype and simulation work
+
+---
+
+## Contact & Following
+
+This is an open, living project. Feedback, technical discussion, and serious collaboration are welcome.
+
+- X: [@j_vandamn](https://x.com/j_vandamn)
+- GitHub: Issues and discussions enabled
