@@ -48,6 +48,8 @@ The system is designed as a modular platform:
 - Acts as resonant waveguide and flexible whip element
 - Grounds the system into landscape and Earth field
 
+**Detailed Component Specification:** See `Gali-Spinal_Tube_v4.3.2.md` for the full technical breakdown of the Gali-Spinal Tube including the new Galinstan-Infused Car-Antenna Whip Base (v4.3.2).
+
 **Magnetic Amplification System**
 
 - 100,000+ highly purified magnetite spheres scaled for mass and strength
@@ -64,53 +66,3 @@ The system is designed as a modular platform:
 The core mechanism uses a closed-loop liquid metal (preferably Galinstan for safety) that is ionized into conductive plasma. A perpendicular magnetic field from the electrified magnetite spheres generates Lorentz force that pumps the fluid in a perpetual spiral.
 
 **Governing Force Balance (at equilibrium):**
-Where:
-- Left side = inertial force of the fluid
-- First right term = Lorentz electromagnetic drive
-- Second right term = fluid drag
-
-At equilibrium, Lorentz drive exactly cancels fluid drag. This enables self-sustaining circulation with no external mechanical pump required.
-
-### Frequency Tuning (Healing Mode)
-
-- Fundamental: Schumann resonance at 7.83 Hz
-- Harmonic sweet spots: 432 Hz, 528 Hz, 741 Hz
-- Goal: Restorative molecular coherence through standing wave patterns
-
-### Vortex and Whip Dynamics
-
-- Acute 90 degree Galinstan wheels create intense localized vortex
-- Whip movement plus head and neural spin add multi-axis inertial and field effects
-- Long spinal coil acts as both structural element and resonant antenna
-
----
-
-## Materials (Current Direction)
-
-| Component           | Material                              | Reason |
-|---------------------|---------------------------------------|--------|
-| Structural tube     | Titanium Carbide (TiC) + PTFE        | High strength, chemical inertness, low friction |
-| Working fluid       | Galinstan (preferred) or purified mercury | Excellent electrical conductivity, liquid at room temperature |
-| Magnetic amplifiers | Highly purified magnetite (Fe3O4) spheres (2-8 mm) | Strongest natural ferrimagnetic mineral |
-| Containment / nodes | PTFE, glass, or advanced composites  | Chemical compatibility and dielectric properties |
-| Electrodes / contacts | Titanium or compatible high-voltage materials | Corrosion resistance |
-
-**Safety Note:** Galinstan is strongly preferred over mercury due to significantly lower toxicity while retaining excellent MHD performance.
-
----
-
-## Simulations and Code Stubs
-
-Starter simulation stubs are located in the `simulations/` folder:
-
-- `MHD_Lorentz_Sim.py` — Core self-sustaining MHD loop physics
-- `Schumann_harmonics_sim.py` — Schumann + healing frequency set with audio output
-- `Healing_head_sim.py` — Central healing field coherence model (v4.1)
-
-Run them with:
-
-```bash
-cd simulations
-python MHD_Lorentz_Sim.py
-python Schumann_harmonics_sim.py
-python Healing_head_sim.py
