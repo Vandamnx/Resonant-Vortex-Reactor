@@ -1,55 +1,35 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Resonant Vortex Reactor (RVR)](#resonant-vortex-reactor-rvr)
-  - [Vision](#vision)
-  - [Current Architecture](#current-architecture)
-  - [Simulations](#simulations)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Resonant Vortex Reactor (RVR)
 
-Modular Observationalist Platform • Molecular Healing Head v4.1 • Magnetic Plasma Production Head v4.0.6
+**Status:** Active conceptual development — July 2026
 
-**Status:** Active conceptual development (July 2026)  
-**Maintainer:** Josh Van Wechel (Vandamnx)  
-**License:** To be determined
+The Resonant Vortex Reactor is a modular platform exploring macroscopic resonance, twist-force dynamics, and potential time-particle modulation effects through engineered magnetic-fluid systems.
 
----
+Core architecture centers on the **Gali-Spinal Tube** — a high-RPM rotating system using an unbalanced whip head, magnetized magnetite sphere chain, double-headed ferrite core, and pure iron return path, operating with carrier fluids such as deionized water or Galinstan variants.
 
-## Vision
+Two primary head configurations are under development:
 
-A self-sustaining resonant vortex device that generates coherent molecular healing fields and controlled magnetic plasma through magnetohydrodynamic (MHD) principles, extreme magnetic field amplification via purified magnetite spheres, and precise frequency tuning to Earth’s natural resonances.
-
-The system is designed as a modular platform:
-
-- Molecular Healing Head (MHH v4.1) — restorative coherence at cellular scale
-- Magnetic Plasma Production Head (v4.0.6) — high-intensity vortex plasma generation
-- Long Spinal Coil / Gali-Spinal Tube — resonant waveguide and structural spine
-- Grounded Observationalist architecture — anchored into landscape for field testing
+- **Molecular Healing Head (v4.1)** — Focused on restorative molecular coherence and time-reversal-dominant dynamics.
+- **Magnetic Plasma Production Head (v4.0.6)** — Focused on energy-oriented, time-forward-dominant operation.
 
 ---
 
 ## Current Architecture
 
-See the detailed specification in `specs/RVR_Spec_Sheet_v4.0.6.md`.
+Full technical specifications are maintained in:
+
+- `specs/RVR_Spec_Sheet_v4.0.6.md` — Main project specification (architecture, materials, MHD principles, roadmap)
+- `specs/v4.3.2.md` — Gali-Spinal Tube v4.3.2 detailed construction and performance specs
+- `Time-particle-theory.md` — Foundational theoretical framework
+- `Experimental Testing – Torsion-like Signatures (v4+).md` — Proposed experimental protocols
 
 ---
 
 ## Simulations
 
-Starter simulation stubs live in the `simulations/` folder:
-
-- `MHD_Lorentz_Sim.py` — Core self-sustaining MHD loop physics
-- `Schumann_harmonics_sim.py` — Schumann + healing frequency set + audio output
-- `Healing_head_sim.py` — Central healing field coherence model (v4.1)
-
-Run them with:
+Runnable Python stubs are located in the `simulations/` folder:
 
 ```bash
 cd simulations
-python MHD_Lorentz_Sim.py
-python Schumann_harmonics_sim.py
-python Healing_head_sim.py
+python MHD_Lorentz_Sim.py          # Self-sustaining MHD loop
+python Schumann_harmonics_sim.py   # Schumann + healing frequency composite
+python Healing_head_sim.py         # Central healing field interference model
