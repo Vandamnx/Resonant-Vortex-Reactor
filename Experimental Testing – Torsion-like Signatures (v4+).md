@@ -1,93 +1,93 @@
 # Experimental Testing – Torsion-like Signatures (v4+)
 
-**Date:** July 7, 2026  
-**Focus:** Experimental signatures that could indicate organized twist/torsion coupling beyond standard electromagnetic or vibrational effects  
-**Related Theory:** Time Particle Theory – twist-force standing waves, external centroid stability, sonic threshold snap, dual polarity nodes  
-**Hardware State:** Gali-Spinal Tube v4+ (TiC + PTFE tube, magnetite sphere chain, unbalanced spiny whip head, double-headed ferrite starburst + pure iron return path, dual polarity nodes)
+**Date:** July 2026  
+**Focus:** Detecting macroscopic signatures consistent with twist-force standing waves, external centroid stability, and time-particle modulation effects in the Gali-Spinal Tube platform.
 
 ---
 
-## Core Hypothesis for These Tests
+## Core Hypothesis
 
-When the device operates **above the sonic threshold snap** with a **stable external centroid**, the organized macroscopic twist may source or couple to torsional-like effects. These effects should:
+The Gali-Spinal Tube architecture (unbalanced whip head + magnetized magnetite sphere chain + double-headed ferrite core + pure iron return path) generates sustained **twist-force standing waves** when operated above the sonic threshold. These waves are hypothesized to couple to rigid-body time instants, producing measurable effects beyond conventional electromagnetic, acoustic, or thermal signatures.
 
-- Appear or strengthen only in the twist-on regime
-- Correlate more strongly with organized twist (whip imbalance + sphere coherence + centroid stability) than with raw power, vibration, or magnetic field strength alone
-- Show differential behavior between yellow (time-forward) and green (time-reversal) node operation, especially with grounding
+Expected observable classes include:
 
----
-
-## Predicted Signatures & Test Protocols
-
-### 1. Spin-Dependent Torque / Force Anomalies
-
-**Prediction:**  
-Small test objects carrying intrinsic spin or magnetic moment will show anomalous forces, torques, or precession that cannot be accounted for by the magnetic field or vibration alone. Effects should be strongest above threshold with stable centroid.
-
-**Test Protocol:**
-
-- Use small neodymium magnets, spinning tops, or lightweight gyroscopes as test masses.
-- Run three conditions: Device OFF / Below threshold / Above threshold (stable centroid confirmed).
-- Record with iPhone slow-motion (240 fps or higher) from multiple angles.
-- Look for unexpected acceleration, tilting, or precession that changes with polarity (yellow ↔ green).
-- Control: Repeat with non-magnetic spinning objects of similar mass and size.
-
-### 2. Timing and Phase Shift Effects
-
-**Prediction:**  
-High-precision timing devices or interference patterns will show measurable rate or phase differences inside/near the active field compared to control positions. Stronger effects expected during green-node + grounded operation.
-
-**Test Protocol:**
-
-- Use two synchronized high-precision timers or crystal oscillators (one inside the field volume, one 1–2 meters away).
-- Run for 5–10 minute periods in each device state.
-- Alternative low-cost version: Use audio or optical interferometry and look for fringe/phase drift that appears only above threshold.
-- Record operator heart coherence state during green-node runs (subjective or using HRV app).
-
-### 3. Micro-Anomaly Rate and Character Changes
-
-**Prediction:**  
-The rate and/or qualitative behavior of micro-anomalies (tiny flying objects, shimmer, cloaking-like effects) will increase or change specifically during twist-on operation, especially in green-node + grounding mode.
-
-**Test Protocol:**
-
-- Use consistent slow-motion recording setup in the same location.
-- Log anomaly counts and descriptions during:
-  - Device OFF (baseline)
-  - Device ON but below threshold
-  - Device above threshold (yellow)
-  - Device above threshold (green + grounding)
-- Note any correlation with operator coherence or external vibration (highway entrainment).
-
-### 4. Yellow vs Green Node Differential Behavior
-
-**Prediction:**  
-Yellow-node operation will tend toward more expansive/disruptive signatures (stronger harmonic disturbance, more chaotic anomaly motion). Green-node operation will tend toward more restorative/stabilizing signatures (smoother harmonics, stronger grounding correlation, clearer coherence effects).
-
-**Test Protocol:**
-
-- Perform matched runs switching only polarity while keeping whip speed, sphere state, and centroid stability as consistent as possible.
-- Compare:
-  - Local harmonic readings (if using sensors)
-  - Anomaly behavior
-  - Any timing/phase effects
-  - Subjective field character
-
-### 5. Gyroscopic / Inertial Anomalies (Secondary)
-
-**Prediction:**  
-Precision gyroscopes or angular sensors placed near the device may show small anomalous precession or drift that depends on the twist state rather than vibration or magnetic field alone.
-
-**Test Protocol:**
-
-- Use any available gyroscope sensor (phone IMU in a stable mount is acceptable for initial tests).
-- Compare readings with device OFF vs above threshold with stable centroid.
-- Lower priority but worth logging if easy to set up.
+- Spin-dependent torque anomalies during acceleration and steady-state high-RPM operation.
+- Timing and phase shifts in node activation (yellow vs. green) correlated with external centroid stability.
+- Micro-anomaly permeability (cloaking-like shimmer, tiny flying objects) during strong twist-force events.
+- Differential behavior between Energy Head (time-forward dominant) and Healing Head (time-reversal dominant) configurations.
+- Gyroscopic and precession anomalies when the external centroid is deliberately perturbed.
 
 ---
 
-## Required Device Conditions for Positive Evidence
+## Test Protocols (v4+)
 
-For a result to be considered potentially torsion-related, it should appear or strengthen **only when**:
+### 1. Spin-Dependent Torque Anomaly Test
 
-- Device is above
+- Mount the device on a precision torque sensor with high-speed data logging.
+- Perform controlled ramp-up through the sonic threshold while recording torque, RPM, and vibration spectra.
+- Look for non-classical torque signatures that persist after subtracting conventional magnetic drag, bearing friction, and fluid viscosity contributions.
+- Compare runs with balanced vs. deliberately unbalanced whip heads.
+
+### 2. Node Timing and Phase Shift Analysis
+
+- Instrument both yellow (ionizing) and green (de-ionizing) nodes with synchronized high-speed sensors.
+- Record activation timing, rise/fall characteristics, and relative phase between nodes during whip-driven operation.
+- Test whether green-node coherence strengthens measurably when the device is well-grounded and the external centroid remains stable.
+- Introduce controlled perturbations to the external centroid and observe phase disruption.
+
+### 3. Micro-Anomaly Logging Protocol
+
+- Deploy multiple synchronized cameras (visible + near-IR) and environmental sensors around the operating device.
+- Record during strong twist-force events (high RPM + sonic threshold crossing).
+- Log any anomalous visual or sensor events (cloaking-like behavior, small flying objects, shimmer phenomena) with precise timestamps.
+- Cross-reference with device telemetry (RPM, node activity, vibration).
+
+### 4. Yellow/Green Node Differential Test
+
+- Run identical power and RPM profiles with the device configured in Energy Head mode vs. Healing Head mode.
+- Compare torque signatures, node coherence, grounding response, and any observed micro-anomalies.
+- Test whether time-reversal-dominant (green) operation shows stronger environmental coupling on well-grounded land.
+
+### 5. Gyroscopic and Precession Perturbation Test
+
+- Mount the device on a gimbaled or gyroscopic test rig.
+- Introduce controlled angular perturbations while maintaining high-RPM twist-force operation.
+- Record whether the system resists or amplifies the perturbation in ways inconsistent with classical rigid-body dynamics.
+- Correlate any anomalous response with external centroid stability metrics.
+
+---
+
+## Required Device Conditions for Meaningful Tests
+
+- Stable external centroid of rotation throughout the test sequence.
+- Whip head and sphere chain operating in the designed unbalanced regime.
+- Carrier fluid (deionized/dark water or Galinstan variant) at correct fill level and purity.
+- Both ionizing (yellow) and de-ionizing (green) nodes functional and instrumented.
+- Device well-grounded when testing time-reversal-dominant effects.
+- High-speed synchronized data acquisition across torque, vibration, optical, and node sensors.
+
+---
+
+## Safety and Practical Notes
+
+- High-RPM rotating magnetic-fluid systems carry mechanical and fluid containment risks.
+- Strong time-varying magnetic fields and potential high-voltage node activity require appropriate shielding and grounding.
+- Micro-anomaly logging should be treated as exploratory; conventional explanations must be rigorously excluded before claiming novel effects.
+- All tests should be documented with raw data, calibration records, and environmental conditions.
+
+---
+
+## Current Status (v4+)
+
+- Core architecture and dual-head variants defined.
+- Initial bench-top magnetic vortex orb prototype constructed.
+- Simulation stubs for central healing field and MHD Lorentz loop implemented.
+- Theoretical framework (Time Particle Theory) under active refinement.
+- Experimental protocols outlined but not yet executed at full scale.
+
+**Next Milestone:** Controlled high-RPM runs with synchronized multi-sensor logging on a grounded test platform.
+
+---
+
+**Status:** Living experimental protocol document.  
+Open to refinement as simulation results, prototype data, and theoretical insights evolve
