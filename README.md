@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Resonant Vortex Reactor](#resonant-vortex-reactor)
+  - [Why This Matters](#why-this-matters)
+  - [Current Status (July 2026)](#current-status-july-2026)
+  - [Core Architecture (v4+)](#core-architecture-v4)
+  - [Documentation](#documentation)
+  - [Next Steps](#next-steps)
+  - [Contact & Following](#contact--following)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Resonant Vortex Reactor
 
 **Exploring coherent twist-force systems and their potential coupling to fundamental time structure.**
