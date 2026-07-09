@@ -1,22 +1,14 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Resonant Vortex Reactor](#resonant-vortex-reactor)
-  - [Current Status (July 2026)](#current-status-july-2026)
-  - [Core Architecture (v4+)](#core-architecture-v4)
-  - [Documentation](#documentation)
-  - [Vision](#vision)
-  - [Next Steps](#next-steps)
-  - [Contact & Following](#contact--following)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Resonant Vortex Reactor
 
 **Exploring coherent twist-force systems and their potential coupling to fundamental time structure.**
 
 The Resonant Vortex Reactor (Gali-Spinal Tube) is an experimental platform designed to generate sustained twist-force standing waves through high-RPM unbalanced rotation of magnetized media. The project investigates whether organized macroscopic twist, under specific conditions of external centroid stability and harmonic threshold events, can produce measurable effects on local timing, spin dynamics, and anomaly behavior — consistent with the hypothesis of modulating discrete rigid-body time instants.
+
+---
+
+## Why This Matters
+
+At a time when humanity faces mounting challenges in energy, coherence, and our fundamental understanding of reality, this work asks whether certain coherent physical systems can interact with the underlying structure of time itself. If twist-force and organized coherence can influence temporal dynamics at a measurable level, it may open new pathways toward cleaner energy technologies and a deeper relationship with the fabric of reality. This project is pursued with rigorous experimental intent while remaining open to the participatory and philosophical dimensions that may prove essential to meaningful progress.
 
 ---
 
@@ -50,12 +42,6 @@ See the experimental testing document for detailed protocols and predicted signa
 - [Experimental Testing – Torsion-like Signatures (v4+)](Experimental%20Testing%20–%20Torsion-like%20Signatures%20(v4+).md) — Test protocols and predicted observables
 - [Build Notes](build-notes) — Development history and notes
 - [Sketches](sketches) — Visual development of the device and concepts
-
----
-
-## Vision
-
-The long-term aim is to explore whether coherent, engineered twist-force systems can interact with the underlying structure of time in measurable ways, with potential implications for energy, coherence, and fundamental physics. This work is pursued with rigorous experimental intent while remaining open to the deeper philosophical and participatory dimensions that may be involved.
 
 ---
 
