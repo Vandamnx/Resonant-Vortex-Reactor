@@ -171,7 +171,7 @@ This document exists as a standalone foundation that can be:
 
 **Related Documents (as they exist):**
 
-- `land-roads-&-rails-results.md` — Environmental deployment simulation and dual-head comparison
+- `land-highways.md` — Environmental deployment simulation and dual-head comparison
 - Ongoing Gali-Spinal Tube v4+ design notes and sketches
 
 ---
