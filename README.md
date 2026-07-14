@@ -1,8 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-# Resonant-Vortex-Reactor
-
-## Table Contents
+## Table of Contents
 
 - [Resonant Vortex Reactor](#resonant-vortex-reactor)
   - [Why This Matters](#why-this-matters)
