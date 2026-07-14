@@ -1,5 +1,11 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+# Resonant-Vortex-Reactor
+
+Exploring coherent twist-force systems and their potential coupling to fundamental time structure.
+
+The Resonant Vortex Reactor (Gali-Spinal Tube) is an experimental platform investigating high-RPM unbalanced rotation of magnetized spheres inside a specially engineered tube, with the goal of generating sustained twist-force standing waves.
+
 ## Table of Contents
 
 - [Resonant Vortex Reactor](#resonant-vortex-reactor)
