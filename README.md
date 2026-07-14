@@ -1,75 +1,27 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
+# Resonant Vortex Reactor — Gali-Spinal Tube (Version 4)
 
-- [Resonant Vortex Reactor](#resonant-vortex-reactor)
-  - [Why This Matters](#why-this-matters)
-  - [Current Status (July 2026)](#current-status-july-2026)
-  - [Core Architecture (v4+)](#core-architecture-v4)
-  - [Documentation](#documentation)
-  - [Next Steps](#next-steps)
-  - [Contact & Following](#contact--following)
+**Modular Magneto-Fluid Vortex Device for Resonant Energy & Molecular Coherence**  
+*Inertial self-ramping whip head • Magnetite sphere chain • TiC/PTFE layered tube • Dual Energy & Healing variants*
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+![Version 4 Concept](https://github.com/Vandamnx/Resonant-Vortex-Reactor/blob/main/docs/version4_concept.png)  
+*(Replace with your latest sketch or generated render)*
 
-# Resonant Vortex Reactor
+## Overview
 
-**Exploring coherent twist-force systems and their potential coupling to fundamental time structure.**
+The **Resonant Vortex Reactor (Gali-Spinal Tube)** is a modular magneto-fluid device that uses controlled inertial vortex motion of a chain of magnetized magnetite spheres inside a specially layered tube to generate sustained centrifugal and Lorentz forces, MHz-range harmonic resonance, and coherent field effects.
 
-The Resonant Vortex Reactor (Gali-Spinal Tube) is an experimental platform designed to generate sustained twist-force standing waves through high-RPM unbalanced rotation of magnetized media. The project investigates whether organized macroscopic twist, under specific conditions of external centroid stability and harmonic threshold events, can produce measurable effects on local timing, spin dynamics, and anomaly behavior — consistent with the hypothesis of modulating discrete rigid-body time instants.
+Version 4 represents the current major iteration (July 2026), with refined materials, geometry scaling, and a dedicated **Molecular Healing Head** variant alongside the original Energy configuration. The design emphasizes practical bench-top prototyping while exploring deep resonance and topological stability principles.
 
----
+This work sits in the broader family of vortex-based advanced devices but is distinct in its mesoscopic scale, accessible materials, and dual-use focus (power/coherence vs. restorative molecular effects).
 
-## Why This Matters
+## Version 4 Key Advances (July 2026)
 
-At a time when humanity faces mounting challenges in energy, coherence, and our fundamental understanding of reality, this work asks whether certain coherent physical systems can interact with the underlying structure of time itself. If twist-force and organized coherence can influence temporal dynamics at a measurable level, it may open new pathways toward cleaner energy technologies and a deeper relationship with the fabric of reality. This project is pursued with rigorous experimental intent while remaining open to the participatory and philosophical dimensions that may prove essential to meaningful progress.
+- **TiC + PTFE Layered Gali-Line Tube** — Titanium carbide structural base with PTFE inner coating for chemical inertness, low friction, and compatibility with aggressive or biocompatible carrier fluids.
+- **Magnetite Sphere Scaling** — Refined chain of highly purified, magnetized Fe₃O₄ spheres with optimized sizing (target range 2–8 mm) for improved inertial response and harmonic coupling.
+- **Unbalanced Spiny Whip Head** — Inertial self-ramping geometry that drives the sphere chain to high RPM through centrifugal loading and rhythmic whipping motion.
+- **Double-Headed Sliced Ferrite Starburst Core + Pure Iron Return Path** — Enhanced magnetic circuit for stronger Lorentz interaction and field closure.
+- **Dual Fluid Carrier Options** — 40% DMSO + Galinstan ferrofluid baseline, plus a new **deionized/dark water variant** optimized for the Healing Head.
+- **Pulsing Ionizing (Yellow) / De-ionizing (Green) Nodes** — Active control points along the tube for modulating field polarity and coherence states.
+- **Healing Head Variant** — Gentler resonance profile targeting cellular/DNA-scale coherence and restorative effects (distinct from the higher-energy/sparking Energy Head).
 
----
-
-## Current Status (July 2026)
-
-- Core v4+ architecture defined (TiC + PTFE structural tube, unbalanced spiny whip head, magnetite sphere chain, double-headed ferrite starburst core, pure iron return path, dual polarity nodes).
-- Bench-top magnetic vortex orb prototype constructed.
-- Time Particle Theory document under active development.
-- Experimental testing protocols written for torsion-like / twist-force signatures.
-- Simulation work and build documentation in progress.
-
-This is an **early-stage experimental project**. Significant work remains in physical testing, measurement, and theoretical refinement.
-
----
-
-## Core Architecture (v4+)
-
-- Unbalanced spiny whip head for inertial self-ramp and rhythmic twist injection
-- Chain of highly purified magnetized magnetite spheres in carrier fluid
-- Double-headed sliced ferrite starburst core with pure iron magnetic return path
-- Dual polarity nodes (ionizing / time-forward and de-ionizing / time-reversal)
-- Emphasis on external centroid stability and reaching sonic threshold events
-
-See the experimental testing document for detailed protocols and predicted signatures.
-
----
-
-## Documentation
-
-- [Time Particle Theory](Time-particle-theory.md) — Foundational theoretical framework
-- [Experimental Testing – Torsion-like Signatures (v4+)](Experimental%20Testing%20–%20Torsion-like%20Signatures%20(v4+).md) — Test protocols and predicted observables
-- [Build Notes](build-notes) — Development history and notes
-- [Sketches](sketches) — Visual development of the device and concepts
-
----
-
-## Next Steps
-
-- Controlled high-RPM testing with multi-sensor logging on isolated platforms
-- Refinement of measurement techniques for timing, torque, and anomaly detection
-- Continued iteration on physical prototype and simulation work
-
----
-
-## Contact & Following
-
-This is an open, living project. Feedback, technical discussion, and serious collaboration are welcome.
-
-- X: [@j_vandamn](https://x.com/j_vandamn)
-- GitHub: Issues and discussions enabled
+## Core Architecture
