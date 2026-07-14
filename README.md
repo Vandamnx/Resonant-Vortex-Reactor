@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Resonant Vortex Reactor — Gali-Spinal Tube (Version 4)](#resonant-vortex-reactor--gali-spinal-tube-version-4)
+  - [Overview](#overview)
+  - [Version 4 Key Advances (July 2026)](#version-4-key-advances-july-2026)
+  - [Core Architecture](#core-architecture)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Resonant Vortex Reactor — Gali-Spinal Tube (Version 4)
 
 **Modular Magneto-Fluid Vortex Device for Resonant Energy & Molecular Coherence**  
