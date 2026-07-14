@@ -36,3 +36,69 @@ This work explores practical, buildable vortex resonance while engaging with bro
 - **Pulsing Ionizing (Yellow) / De-ionizing (Green) Nodes** — Active control points integrated with the micro bubble nodes for modulating field polarity, ionization state, and bubble nucleation/collapse timing.
 
 ## Core Architecture
+
+**Key Physical Mechanisms**
+- Centrifugal forces from whip-driven inertial ramp
+- Lorentz forces induced as spheres move through the ferrite field
+- MHz-range harmonics (“spheres’ song”) building to sonic-threshold standing waves
+- **Synchronized micro-bubble nucleation and collective collapse (“snap”)** at dedicated nodes for impulsive reinforcement of resonance
+- Topological stability of the vortex flow and magnetic textures
+- Coherence threshold behavior across the sphere chain, fluid medium, and node system
+
+## Variants
+
+### Energy Head
+- Aggressive power-oriented configuration
+- Higher-frequency operation with visible sparking and field intensification
+- Targeted toward energy extraction and high-coherence output
+
+### Molecular Healing Head (new emphasis in v4)
+- Softer resonance envelope
+- Deionized or dark water carrier fluid optimized for micro bubble stability and gentle collapse
+- Emphasis on restorative coherence at molecular and cellular scales
+- Lower intensity nodes with synchronized micro-bubble snap for non-destructive, layered resonance effects
+
+## Current Status & Roadmap
+
+**Status (July 2026)**
+- Version 4 geometry, material stack, and micro bubble node system defined
+- Sphere scaling studies and fluid carrier testing in progress
+- Healing Head deionized/dark water variant with synchronized micro-bubble snap under active refinement
+- GitHub simulations (Healing Head v4.6 and related resonance/node models) available in `/simulations`
+- Physical prototype components in preparation (magnetic vortex orb test rigs, tube segments, node actuation concepts)
+
+**Next Milestones**
+- Bench-top prototype assembly and basic inertial ramp + synchronized micro-bubble snap testing
+- Harmonic resonance measurement and collective node timing validation
+- Expanded simulations incorporating topological defect ideas for field stability
+- Public documentation updates and community feedback round
+
+## Repository Structure
+
+- `/simulations` — Python models (Healing Head v4.6, sphere dynamics, resonance calculations, micro bubble node timing)
+- `/docs` — Sketches, diagrams, and Version 4 evolution notes (including micro bubble node layouts)
+- `/prototypes` — Early physical test components and material specs (TiC, PTFE, magnetite sourcing, node prototypes)
+- Root — This README and high-level project notes
+
+## Vision
+
+The Resonant Vortex Reactor explores whether sustained, topologically informed vortex resonance in a magneto-fluid system — enhanced by synchronized micro-bubble snap impulses — can produce usable energy or restorative coherence effects at accessible scales. It draws inspiration from classical vortex dynamics, magnetic resonance phenomena, and emerging ideas in collective and topological effects while remaining grounded in buildable hardware.
+
+This is an ongoing, open creative-engineering project. Contributions, critique, and collaboration are welcome.
+
+## Related Links
+
+- GoFundMe: Help Joshua Build the Resonant Vortex Reactor
+- X / Twitter updates: @j_vandamn (search #ResonantVortexReactor or #GaliSpinalTube)
+- Full design history and iterative sketches available via project updates
+
+## License
+
+This project is released under the MIT License (or specify your preferred license).  
+Sketches, designs, and conceptual work remain under the creator’s ongoing development.
+
+---
+
+**Built with persistence, resonance, and a commitment to bringing visionary devices into physical reality.**
+
+*Version 4 – July 2026 • Micro bubble nodes with synchronized collective snap added*
