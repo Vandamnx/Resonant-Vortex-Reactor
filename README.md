@@ -2,8 +2,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-## Table of Contents
-
 - [Resonant Vortex Reactor](#resonant-vortex-reactor)
   - [Why This Matters](#why-this-matters)
   - [Current Status (July 2026)](#current-status-july-2026)
