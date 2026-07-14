@@ -6,6 +6,14 @@
   - [Overview](#overview)
   - [Version 4 Key Advances (July 2026)](#version-4-key-advances-july-2026)
   - [Core Architecture](#core-architecture)
+  - [Variants](#variants)
+    - [Energy Head](#energy-head)
+    - [Molecular Healing Head (new emphasis in v4)](#molecular-healing-head-new-emphasis-in-v4)
+  - [Current Status & Roadmap](#current-status--roadmap)
+  - [Repository Structure](#repository-structure)
+  - [Vision](#vision)
+  - [Related Links](#related-links)
+  - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
