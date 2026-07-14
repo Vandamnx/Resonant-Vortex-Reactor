@@ -90,4 +90,4 @@ Expected observable classes include:
 ---
 
 **Status:** Living experimental protocol document.  
-Open to refinement as simulation results, prototype data, and theoretical insights evolve
+Open to refinement as simulation results, prototype data, and theoretical insights evolve.
