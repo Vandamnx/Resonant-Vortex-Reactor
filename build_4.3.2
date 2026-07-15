@@ -61,3 +61,38 @@ Version 4.3.2 introduces a refined whip base inspired by car-antenna mechanics, 
 The whip base is modeled as a cantilever beam with fluid and magnetic loading.
 
 **Key resonance equation:**
+
+where `I = (b h³)/12` is the second moment of area.
+
+**Validated design points (preliminary):**
+
+- 316L stainless: ~1.23 kHz resonance, ~13.5 J/cycle energy storage
+- Nitinol: ~0.43 kHz resonance, ~25.9 J/cycle energy storage (higher compliance)
+
+Galinstan microchannels improve magnetic coupling and thermal management while preserving mechanical resonance characteristics. The car-antenna form factor offers practical advantages for prototype construction and external centroid control.
+
+---
+
+## Safety Notes
+
+- High-RPM rotating systems with magnetic fluids require robust containment and balancing.
+- Strong time-varying magnetic fields necessitate proper shielding and operator safety protocols.
+- Carrier fluid choice (especially Galinstan) requires chemical handling precautions.
+- All high-speed testing should include emergency shutdown and vibration monitoring.
+
+---
+
+## v5 Considerations
+
+Future iterations may explore:
+- Active piezoelectric tuning of the whip base
+- Multi-whip or distributed drive geometries
+- Integrated sensor arrays for real-time centroid and coherence monitoring
+- Scaled versions for higher power or larger sphere chains
+
+---
+
+**Status:** Living technical specification for v4.3.2.  
+Open to refinement based on simulation results and prototype testing.
+
+**Locked in.**
