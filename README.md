@@ -14,7 +14,8 @@
   - [Simulations](#simulations)
   - [Documentation](#documentation)
   - [Vision](#vision)
-  - [Related Links](#related-links)
+  - [Related Links](#related-links) 
+  - [Grok App](#grok/app)
   - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
