@@ -11,6 +11,8 @@
     - [Molecular Healing Head (new emphasis in v4)](#molecular-healing-head-new-emphasis-in-v4)
   - [Current Status & Roadmap](#current-status--roadmap)
   - [Repository Structure](#repository-structure)
+  - [Simulations](#simulations)
+  - [Documentation](#documentation)
   - [Vision](#vision)
   - [Related Links](#related-links)
   - [License](#license)
