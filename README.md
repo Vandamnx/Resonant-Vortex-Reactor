@@ -88,6 +88,24 @@ This work explores practical, buildable vortex resonance while engaging with bro
 - `/prototypes` — Early physical test components and material specs (TiC, PTFE, magnetite sourcing, node prototypes)
 - Root — This README and high-level project notes
 
+## Simulations
+
+Python models for virtual testing:
+
+- `full_multi_test_dashboard_dmso_tree_sap.py` — Full multi-test suite with DMSO + tree sap fluid
+- `fluid_dynamics_aggressive.py` — High-RPM fluid dynamics
+- `torsion_torque_sim_v3.py` — Torque anomaly with sensor noise
+- `node_phase_shift_sim.py` — Yellow vs Green node behavior
+- Additional stubs for healing head, MHD Lorentz, Schumann harmonics, etc.
+
+Run any script with `python filename.py` to generate plots and data.
+
+## Documentation
+
+- `Time-particle-theory.md`
+- `Experimental Testing – Torsion-like Signatures (v4+).md`
+- Spec sheets in `/specs/`
+
 ## Vision
 
 The Resonant Vortex Reactor explores whether sustained, topologically informed vortex resonance in a magneto-fluid system — enhanced by synchronized micro-bubble snap impulses — can produce usable energy or restorative coherence effects at accessible scales. It draws inspiration from classical vortex dynamics, magnetic resonance phenomena, and emerging ideas in collective and topological effects while remaining grounded in buildable hardware.
