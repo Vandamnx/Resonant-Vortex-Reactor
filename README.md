@@ -122,7 +122,7 @@ This is an ongoing, open creative-engineering project. Contributions, critique, 
 
 ## License
 
-This project is released under the MIT License (or specify your preferred license).  
+This project is  (specify your preferred license).  
 Sketches, designs, and conceptual work remain under the creator’s ongoing development.
 
 ---
