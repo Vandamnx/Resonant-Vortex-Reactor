@@ -113,7 +113,8 @@ Run any script with `python filename.py` to generate plots and data.
 The Resonant Vortex Reactor explores whether sustained, topologically informed vortex resonance in a magneto-fluid system — enhanced by synchronized micro-bubble snap impulses — can produce usable energy or restorative coherence effects at accessible scales. It draws inspiration from classical vortex dynamics, magnetic resonance phenomena, and emerging ideas in collective and topological effects while remaining grounded in buildable hardware.
 
 This is an ongoing, open creative-engineering project. Contributions, critique, and collaboration are welcome.
-     
+
+## The Numbers
 Force balance: At equilibrium, Lorentz drive exactly cancels fluid drag → self-sustaining forever (infinite power source for the robotic heart, or steady restorative field for the healing head).
 Equation snapshot (the governing physics):
 du m-
