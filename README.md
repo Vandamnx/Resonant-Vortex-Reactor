@@ -14,7 +14,6 @@
   - [Simulations](#simulations)
   - [Documentation](#documentation)
   - [Vision](#vision)
-  - [The Numbers](#the-numbers)
   - [Related Links](#related-links)
   - [License](#license)
 
