@@ -118,9 +118,9 @@ This is an ongoing, open creative-engineering project. Contributions, critique, 
 ## The Numbers
 Force balance: At equilibrium, Lorentz drive exactly cancels fluid drag → self-sustaining forever (infinite power source for the robotic heart, or steady restorative field for the healing head).
 Equation snapshot (the governing physics):
-du m-
-= (OVB'L)v- CapAv?
-dt
+   dv
+m- --= (oV B2 L)v - CapAv2?
+   dt
 
 ## Related Links
 
