@@ -115,12 +115,11 @@ The Resonant Vortex Reactor explores whether sustained, topologically informed v
 
 This is an ongoing, open creative-engineering project. Contributions, critique, and collaboration are welcome.
 
-## The Numbers
-Force balance: At equilibrium, Lorentz drive exactly cancels fluid drag → self-sustaining forever (infinite power source for the robotic heart, or steady restorative field for the healing head).
-Equation snapshot (the governing physics):
-   dv
-m- --= (oV B2 L)v - CapAv2?
-   dt
+##**Equation snapshot (the governing physics):**
+
+$$
+m \frac{dv}{dt} = (\sigma V B^2 L) v - C_d \rho A v^2
+$$
 
 ## Related Links
 
