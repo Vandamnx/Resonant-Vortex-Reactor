@@ -14,6 +14,7 @@
   - [Simulations](#simulations)
   - [Documentation](#documentation)
   - [Vision](#vision)
+  - [Equation snapshot (the governing physics)](#equation-snapshot-the-governing-physics)
   - [Related Links](#related-links)
   - [License](#license)
 
