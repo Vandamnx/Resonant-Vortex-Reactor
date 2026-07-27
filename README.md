@@ -114,8 +114,7 @@ The Resonant Vortex Reactor explores whether sustained, topologically informed v
 
 This is an ongoing, open creative-engineering project. Contributions, critique, and collaboration are welcome.
 
-##**Equation snapshot (the governing physics):**
-
+## Equation snapshot (the governing physics)
 $$
 m \frac{dv}{dt} = (\sigma V B^2 L) v - C_d \rho A v^2
 $$
