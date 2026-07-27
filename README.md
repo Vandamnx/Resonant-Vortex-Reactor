@@ -27,7 +27,7 @@
 **Modular Magneto-Fluid Vortex Device for Resonant Energy & Molecular Coherence**  
 *Inertial self-ramping whip head • Magnetite sphere chain • TiC/PTFE layered tube • Micro bubble nodes with synchronized snap • Dual Energy & Healing variants*
 
-![Version 4 Concept](https://github.com/Vandamnx/Resonant-Vortex-Reactor/blob/main/docs/version4_concept.png)  
+![Version 4 Concept](docs/version4_concept.png)  
 *(Replace with your latest sketch or generated render)*
 
 ## Overview
