@@ -128,12 +128,19 @@ $$
 
 ## License
 
-This project is released under the Blue Oak Model License 1.0.0 for open use.
+This project is released under the **Blue Oak Model License 1.0.0** for open use.
 
-However, any patents, commercial products, or significant revenue derived from the core inventions (Gali-Spinal Tube architecture, Time Particle Theory, micro-bubble node systems, etc.) will be shared fairly among primary contributors based on time invested and total contributions. Final decisions rest with J. Vandamn (Vandamnx).
-Contact for commercial licensing or partnership inquiries..  
-Sketches, designs, and conceptual work remain under the creator’s ongoing development.
+Full license text: [https://blueoakcouncil.org/license/1.0.0](https://blueoakcouncil.org/license/1.0.0)
 
+### Commercial Use and Patents
+
+While the code and documentation are provided under the permissive Blue Oak license, the following applies to the core inventions:
+
+- Any patents filed on the core technology (Gali-Spinal Tube architecture, Time Particle Theory, micro-bubble node systems, synchronized snap mechanisms, and related concepts) must appropriately credit the originating creators.
+- Any significant financial gain or commercial exploitation of the final complete product will be shared fairly among primary contributors based on time invested and total contributions to the project.
+- Final decisions on revenue sharing, licensing, and commercialization rest with ** J.Vandamn (Vandamnx) **, with input from key collaborators.
+
+This notice does not restrict open-source use or modification under the Blue Oak Model License, but governs commercial and patent rights.
 ---
 
 **Built with persistence, resonance, and a commitment to bringing visionary devices into physical reality.**
