@@ -3,28 +3,39 @@ name: Docs - TOC + Lint
 on:
   push:
     branches: [main]
+    paths:
+      - '**/*.md'
+      - '.github/**'
   workflow_dispatch:
 
+# Narrow top-level permissions; override per-job where write is required.
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
+
+concurrency:
+  group: docs-toc-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   generate-toc:
     name: Generate Table of Contents
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
       - name: Generate TOC
         uses: technote-space/toc-generator@v4
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TOC_TITLE: '## Table of Contents'
-          COMMIT_MESSAGE: 'docs: update table of contents'
+          COMMIT_MESSAGE: 'docs: update table of contents [skip ci]'
           FOLDING: false
           MAX_HEADER_LEVEL: 3
 
@@ -32,9 +43,13 @@ jobs:
     name: Lint Markdown Files
     runs-on: ubuntu-latest
     needs: generate-toc
+    permissions:
+      contents: read
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (shallow)
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Lint Markdown
         uses: DavidAnson/markdownlint-cli2-action@v19
