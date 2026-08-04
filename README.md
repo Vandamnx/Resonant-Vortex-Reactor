@@ -30,8 +30,37 @@
 ![Version 4 Concept](docs/version4_concept.png)  
 *(Replace with your latest sketch or generated render)*
 
+## Overview# Resonant Vortex Reactor — Gali-Spinal Tube (Version 4)
+
+**Modular Magneto-Fluid Vortex Device for Resonant Energy & Molecular Coherence**
+
+Inertial self-ramping whip head • Magnetite sphere chain • TiC/PTFE layered tube • Micro-bubble nodes with synchronized snap • Dual Energy & Healing variants
+
+---
+
 ## Overview
 
+The **Resonant Vortex Reactor (Gali-Spinal Tube)** is an experimental magneto-fluid platform that uses controlled high-RPM motion of a magnetized magnetite sphere chain inside a specially engineered tube to generate centrifugal and Lorentz forces, harmonic resonance, and coherent field effects.
+
+Version 4 focuses on refined materials, sphere scaling, dual polarity nodes, and synchronized micro-bubble “snap” impulses. The project explores both practical engineering applications and more speculative theoretical ideas.
+
+**Current Status (August 2026):**  
+Early-stage exploratory project. Core architecture defined, simulations in progress, physical prototype components under preparation. No completed experimental validation of anomalous effects yet.
+
+---
+
+## Key Features (v4)
+
+- TiC + PTFE layered tube for chemical inertness and low friction
+- Size-scaled magnetized magnetite sphere chain
+- Unbalanced spiny whip head for inertial self-ramping
+- Double-headed ferrite starburst core + pure iron return path
+- Dual polarity nodes (Yellow ionizing / Green de-ionizing)
+- Micro-bubble nodes with synchronized collective snap
+- Dual fluid options (Galinstan/DMSO mix and deionized/dark water variants)
+- Modular Energy Head and Molecular Healing Head configurations
+
+---
 The **Resonant Vortex Reactor (Gali-Spinal Tube)** is a modular magneto-fluid device that uses controlled inertial vortex motion of a chain of magnetized magnetite spheres inside a specially layered tube to generate sustained centrifugal and Lorentz forces, MHz-range harmonic resonance, and coherent field effects.
 
 Version 4 (July 2026) introduces refined materials, sphere scaling, and an expanded node system that now includes **micro bubble nodes** capable of synchronized popping for an additional collective “snap” impulse. The design supports dual-use operation: high-energy output or gentler molecular-level coherence and restorative effects.
