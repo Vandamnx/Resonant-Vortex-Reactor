@@ -124,7 +124,7 @@ $$
 
 ## Related Links
 
-- GoFundMe: Help Joshua Build the Resonant Vortex Reactor
+- GoFundMe: Help Joshua Build the Resonant Vortex Reactor :https://gofund.me/a5455130b
 - X / Twitter updates: @j_vandamn (search #ResonantVortexReactor or #GaliSpinalTube)
 - Full design history and iterative sketches available via project updates
 
