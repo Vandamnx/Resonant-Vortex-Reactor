@@ -1,5 +1,6 @@
-# v5 GST "GALI-SPINAL-TUBE"
+# v5 "GALI-SPINAL-TUBE"
 
+-GST-
 **Version 5 – TiC + PTFE + DRSSTC Driver, Integrated Tesla Resonance**
 **Technical Specification Sheet**
 
