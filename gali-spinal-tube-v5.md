@@ -128,6 +128,6 @@ title: "GALI-SPINAL-TUBE" - Version 5
 subtitle: "TiC + PTFE + DRSSTC Driver • Integrated Tesla Resonance"
 author: "J.Vandamn" - Josh Van Wechel
 date: "06 April 2026"
-geometry: "margin=0.8in"
-fontsize: 11
+geometry: "margin=0.7in"
+fontsize: 5
 ---
