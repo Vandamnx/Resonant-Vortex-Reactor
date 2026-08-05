@@ -7,7 +7,7 @@ geometry: "margin=0.8in"
 fontsize: 11pt
 ---
 
-# GALI-SPINAL TUBE
+# GALI-SPINAL-TUBE
 
 **Version 5 – TiC + PTFE + DRSSTC Driver, Integrated Tesla Resonance**
 **Technical Specification Sheet**
@@ -17,7 +17,7 @@ fontsize: 11pt
 
 ## 1. Overview
 
-The Gali-Spinal Tube Version 5 is a vertical, sealed magneto-sonic resonance column enhanced with a Dual-Resonant Solid-State Tesla Coil (DRSSTC) driver. It delivers continuous fluid-dynamic energy transfer and targeted molecular-scale effects through precise MHz Tesla resonance. High-performance materials, liquid-metal carrier fluid, size-scaled magnetite resonators, and dual-frequency sonic heads create a driven, high-RPM whipping motion within a Lorentz-force augmented field.
+The Gali-Spinal-Tube Version 5 is a vertical, sealed magneto-sonic resonance column enhanced with a Dual-Resonant Solid-State Tesla Coil (DRSSTC) driver. It delivers continuous fluid-dynamic energy transfer and targeted molecular-scale effects through precise MHz Tesla resonance. High-performance materials, liquid-metal carrier fluid, size-scaled magnetite resonators, and dual-frequency sonic heads create a driven, high-RPM whipping motion within a Lorentz-force augmented field.
 
 The system produces two distinct output regimes:
 
@@ -28,7 +28,7 @@ The system produces two distinct output regimes:
 
 ## 2. Origin & Philosophy
 
-Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “spinal” architecture, the Gali-Spinal Tube is a modern alchemical engine. It merges frontier materials science with the pursuit of coherent, self-organizing vital forces. Inspired by Tesla’s high-frequency resonance, Schauberger’s implosive flows, and plasma physics, its dual-headed design—aggressive ionizing “song” versus gentle restorative pulsing—embodies the core philosophy: when matter, magnetism, and MHz harmonics align, technology awakens latent intelligence in fluids and fields. The emergent “ – Plasma Burst”  plasma morphology at sonic crossover demonstrates its bridge between mechanical precision and biological coherence.
+Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “spinal” architecture, the Gali-Spinal-Tube is a modern alchemical engine. It merges frontier materials science with the pursuit of coherent, self-organizing vital forces. Inspired by Tesla’s high-frequency resonance, Schauberger’s implosive flows, and plasma physics, its dual-headed design—aggressive ionizing “song” versus gentle restorative pulsing—embodies the core philosophy: when matter, magnetism, and MHz harmonics align, technology awakens latent intelligence in fluids and fields. The emergent “ – Plasma Burst”  plasma morphology at sonic crossover demonstrates its bridge between mechanical precision and biological coherence.
 
 ## 3. Physical Construction
 
@@ -122,4 +122,8 @@ Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “s
 
 The new **Schematic Diagram** section (Section 5) provides a clean, professional placeholder for the DRSSTC + tube electrical schematic while keeping the entire document to one page. You can easily swap the placeholder text for an actual image or diagram when exporting to PDF.
 
-Ready for further tweaks, a cover page, or Version 6? Just let me know!
+**Ready for further developments
+ 
+*possible upgrades  
+tree sap 7-10% mix with dmso 40% integrated into spheres loop fluid
+micro bubble integration is available 
