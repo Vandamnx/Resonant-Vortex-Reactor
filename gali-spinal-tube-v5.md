@@ -117,7 +117,7 @@ section(Section 5) provides a clean, professional placeholder for the DRSSTC + t
 
 **Ready for further developments
 
-# possible upgrades
+#coherent upgrades 
 
 -tree sap 7-10% possible mix with dmso total 40% integrated fluid closed
 
