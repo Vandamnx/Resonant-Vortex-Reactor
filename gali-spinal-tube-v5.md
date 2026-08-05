@@ -1,17 +1,5 @@
 # v5 GST "GALI-SPINAL-TUBE"
 
----
-
-title: "GALI-SPINAL-TUBE" - Version 5
-subtitle: "TiC + PTFE + DRSSTC Driver • Integrated Tesla Resonance"
-author: "J.Vandamn" - Josh Van Wechel
-date: "06 April 2026"
-geometry: "margin=0.8in"
-fontsize: 11
----
-
-# GALI-SPINAL-TUBE
-
 **Version 5 – TiC + PTFE + DRSSTC Driver, Integrated Tesla Resonance**
 **Technical Specification Sheet**
 
@@ -134,3 +122,12 @@ section(Section 5) provides a clean, professional placeholder for the DRSSTC + t
 -tree sap 7-10% possible mix with dmso total 40% integrated fluid closed
 -scaled larger spheres in loop for more powerful effects
 -micro bubble integration is available
+---
+
+title: "GALI-SPINAL-TUBE" - Version 5
+subtitle: "TiC + PTFE + DRSSTC Driver • Integrated Tesla Resonance"
+author: "J.Vandamn" - Josh Van Wechel
+date: "06 April 2026"
+geometry: "margin=0.8in"
+fontsize: 11
+---
