@@ -1,6 +1,6 @@
 # Resonant Vortex Reactor — Main Specification (v4.0.6)
 
-**Status:** Active development — July 2026  
+**Status:** Active development — July 2026
 **Focus:** Modular platform architecture, MHD principles, materials, and development roadmap.
 
 ---
@@ -27,6 +27,7 @@ The core mechanism relies on Lorentz-driven circulation of a conductive fluid (G
 When the Lorentz drive term balances fluid drag, a self-sustaining circulation can be maintained with minimal external input once initiated.
 
 Key parameters:
+
 - `σ` — Electrical conductivity of the working fluid
 - `B` — Magnetic field strength from the ferrite core and return path
 - `V`, `L` — Characteristic velocity and length scales

@@ -1,6 +1,6 @@
 # Experimental Testing – Torsion-like Signatures (v4+)
 
-**Date:** July 2026  
+**Date:** July 2026
 **Focus:** Detecting macroscopic signatures consistent with twist-force standing waves, external centroid stability, and time-particle modulation effects in the Gali-Spinal Tube platform.
 
 ---
@@ -89,5 +89,5 @@ Expected observable classes include:
 
 ---
 
-**Status:** Living experimental protocol document.  
+**Status:** Living experimental protocol document.
 Open to refinement as simulation results, prototype data, and theoretical insights evolve.

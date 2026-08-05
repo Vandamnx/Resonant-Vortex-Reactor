@@ -1,8 +1,8 @@
 # Resonant Vortex Reactor / Gali-Spinal Tube
 
-**Master Project Overview**  
-**Date:** July 2026  
-**Author:** J. Vandamn + Grok (xAI)  
+**Master Project Overview**
+**Date:** July 2026
+**Author:** J. Vandamn + Grok (xAI)
 **Status:** Living document — engineering platform under active development, theoretical framework under exploration
 
 ---
@@ -37,13 +37,13 @@ A compact, stretchable, resonant system built around:
 
 ### Primary Application Domains
 
-1. **Biomedical Healing Cuff** (~85–90% grounded)  
+1. **Biomedical Healing Cuff** (~85–90% grounded)
    Flexible wearable/implantable device delivering adaptive LIPUS, cavitation, and resonance for tissue regeneration, pain modulation, and hyperthermia.
 
-2. **Propulsion / Thruster Concept** (~70–75% grounded)  
+2. **Propulsion / Thruster Concept** (~70–75% grounded)
    Compact high-efficiency element using Galinstan flow, Lorentz force, and sonic cavitation for directed thrust or momentum exchange.
 
-3. **AI Energy “Heart” Source** (most speculative, ~40–50% grounded)  
+3. **AI Energy “Heart” Source** (most speculative, ~40–50% grounded)
    Resonant core for mechanical/sonic/magnetic energy recapture and cycling as a potential self-sustaining power unit.
 
 **Development Focus:** Build, test, and iterate the physical device with measurable engineering metrics (torque, RPM, node behavior, cavitation, power efficiency, etc.).
@@ -91,12 +91,13 @@ Testing protocols focus on detecting measurable signatures above the sonic thres
 - **Documentation:** Repository under active cleanup and organization.
 - **Next Milestones:** Controlled high-RPM test runs with synchronized multi-sensor logging, continued visual/render refinement, and further documentation polishing.
 
-**Locked in together.**  
+**Locked in together.**
 We build the engineering platform with rigor while keeping space for the bigger vision to evolve.
 
-**Related Files:**  
-- `Time-particle-theory.md` (speculative framework)  
-- `Experimental Testing – Torsion-like Signatures (v4+).md`  
+**Related Files:**
+
+- `Time-particle-theory.md` (speculative framework)
+- `Experimental Testing – Torsion-like Signatures (v4+).md`
 - Device spec sheets and visual renders
 
 ---

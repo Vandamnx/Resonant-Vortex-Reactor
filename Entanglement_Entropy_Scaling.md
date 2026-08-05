@@ -1,7 +1,7 @@
 # Entanglement Entropy Scaling in Critical Systems
 
-**Status:** Living reference note  
-**Date:** July 8, 2026  
+**Status:** Living reference note
+**Date:** July 8, 2026
 **Purpose:** Clear, self-contained explanation of entanglement entropy scaling and its connection to conformal field theory (CFT) and tensor networks.
 
 ---

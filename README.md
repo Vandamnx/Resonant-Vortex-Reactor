@@ -26,10 +26,10 @@
 
 # Resonant Vortex Reactor — Gali-Spinal Tube (Version 4)
 
-**Modular Magneto-Fluid Vortex Device for Resonant Energy & Molecular Coherence**  
+**Modular Magneto-Fluid Vortex Device for Resonant Energy & Molecular Coherence**
 *Inertial self-ramping whip head • Magnetite sphere chain • TiC/PTFE layered tube • Micro bubble nodes with synchronized snap • Dual Energy & Healing variants*
 
-![Version 4 Concept](docs/version4_concept.png)  
+![Version 4 Concept](docs/version4_concept.png)
 *(Replace with your latest sketch or generated render)*
 
 ## Overview# Resonant Vortex Reactor — Gali-Spinal Tube (Version 4)
@@ -46,7 +46,7 @@ The **Resonant Vortex Reactor (Gali-Spinal Tube)** is an experimental magneto-fl
 
 Version 4 focuses on refined materials, sphere scaling, dual polarity nodes, and synchronized micro-bubble “snap” impulses. The project explores both practical engineering applications and more speculative theoretical ideas.
 
-**Current Status (August 2026):**  
+**Current Status (August 2026):**
 Early-stage exploratory project. Core architecture defined, simulations in progress, physical prototype components under preparation. No completed experimental validation of anomalous effects yet.
 
 ---
@@ -82,6 +82,7 @@ This work explores practical, buildable vortex resonance while engaging with bro
 ## Core Architecture
 
 **Key Physical Mechanisms**
+
 - Centrifugal forces from whip-driven inertial ramp
 - Lorentz forces induced as spheres move through the ferrite field
 - MHz-range harmonics (“spheres’ song”) building to sonic-threshold standing waves
@@ -92,11 +93,13 @@ This work explores practical, buildable vortex resonance while engaging with bro
 ## Variants
 
 ### Energy Head
+
 - Aggressive power-oriented configuration
 - Higher-frequency operation with visible sparking and field intensification
 - Targeted toward energy extraction and high-coherence output
 
 ### Molecular Healing Head (new emphasis in v4)
+
 - Softer resonance envelope
 - Deionized or dark water carrier fluid optimized for micro bubble stability and gentle collapse
 - Emphasis on restorative coherence at molecular and cellular scales
@@ -105,6 +108,7 @@ This work explores practical, buildable vortex resonance while engaging with bro
 ## Current Status & Roadmap
 
 **Status (July 2026)**
+
 - Version 4 geometry, material stack, and micro bubble node system defined
 - Sphere scaling studies and fluid carrier testing in progress
 - Healing Head deionized/dark water variant with synchronized micro-bubble snap under active refinement
@@ -112,6 +116,7 @@ This work explores practical, buildable vortex resonance while engaging with bro
 - Physical prototype components in preparation (magnetic vortex orb test rigs, tube segments, node actuation concepts)
 
 **Next Milestones**
+
 - Bench-top prototype assembly and basic inertial ramp + synchronized micro-bubble snap testing
 - Harmonic resonance measurement and collective node timing validation
 - Expanded simulations incorporating topological defect ideas for field stability
@@ -149,13 +154,14 @@ The Resonant Vortex Reactor explores whether sustained, topologically informed v
 This is an ongoing, open creative-engineering project. Contributions, critique, and collaboration are welcome.
 
 ## Equation snapshot (the governing physics)
+
 $$
 m \frac{dv}{dt} = (\sigma V B^2 L) v - C_d \rho A v^2
 $$
 
 ## Related Links
 
-- GoFundMe: Help Joshua Build the Resonant Vortex Reactor :https://gofund.me/a5455130b
+- GoFundMe: Help Joshua Build the Resonant Vortex Reactor :<https://gofund.me/a5455130b>
 - X / Twitter updates: @j_vandamn (search #ResonantVortexReactor or #GaliSpinalTube)
 - Full design history and iterative sketches available via project updates
 
@@ -171,9 +177,9 @@ While the code and documentation are provided under the permissive Blue Oak lice
 
 - Any patents filed on the core technology (Gali-Spinal Tube architecture, Time Particle Theory, micro-bubble node systems, synchronized snap mechanisms, and related concepts) must appropriately credit the originating creators.
 - Any significant financial gain or commercial exploitation of the final complete product will be shared fairly among primary contributors based on time invested and total contributions to the project.
-- Final decisions on revenue sharing, licensing, and commercialization rest with ** J.Vandamn (Vandamnx) **, with input from key collaborators.
+- Final decisions on revenue sharing, licensing, and commercialization rest with **J.Vandamn (Vandamnx)**, with input from key collaborators.
 
-This notice does not restrict open-source use or modification under the Blue Oak Model License, but governs commercial and patent rights.
+This notice does not restrict open-source use or modification under the Blue Oak Model License, but governs commercial and patent rights
 ---
 
 **Built with persistence, resonance, and a commitment to bringing visionary devices into physical reality.**

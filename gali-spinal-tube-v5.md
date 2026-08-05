@@ -7,33 +7,39 @@ geometry: "margin=0.8in"
 fontsize: 11pt
 ---
 
-# GALI-SPINAL TUBE  
-**Version 5 – TiC + PTFE + DRSSTC Driver, Integrated Tesla Resonance**  
+# GALI-SPINAL TUBE
+
+**Version 5 – TiC + PTFE + DRSSTC Driver, Integrated Tesla Resonance**
 **Technical Specification Sheet**
 
-**Date:** 06 April 2026  
+**Date:** 06 April 2026
 **Designer / Concept Origin:** J.Vandamn
 
 ## 1. Overview
+
 The Gali-Spinal Tube Version 5 is a vertical, sealed magneto-sonic resonance column enhanced with a Dual-Resonant Solid-State Tesla Coil (DRSSTC) driver. It delivers continuous fluid-dynamic energy transfer and targeted molecular-scale effects through precise MHz Tesla resonance. High-performance materials, liquid-metal carrier fluid, size-scaled magnetite resonators, and dual-frequency sonic heads create a driven, high-RPM whipping motion within a Lorentz-force augmented field.
 
-The system produces two distinct output regimes:  
-- **Energy Head** – aggressive, high-frequency ionizing output (Tesla-style breakout)  
-- **Molecular Healing Head** – gentler, restorative de-ionizing coherence  
+The system produces two distinct output regimes:
+
+- **Energy Head** – aggressive, high-frequency ionizing output (Tesla-style breakout)
+- **Molecular Healing Head** – gentler, restorative de-ionizing coherence
 
 **Intended applications:** advanced materials research, sonochemical processing, plasma physics, and speculative molecular-healing / coherence studies.
 
 ## 2. Origin & Philosophy
+
 Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “spinal” architecture, the Gali-Spinal Tube is a modern alchemical engine. It merges frontier materials science with the pursuit of coherent, self-organizing vital forces. Inspired by Tesla’s high-frequency resonance, Schauberger’s implosive flows, and plasma physics, its dual-headed design—aggressive ionizing “song” versus gentle restorative pulsing—embodies the core philosophy: when matter, magnetism, and MHz harmonics align, technology awakens latent intelligence in fluids and fields. The emergent “ – Plasma Burst”  plasma morphology at sonic crossover demonstrates its bridge between mechanical precision and biological coherence.
 
 ## 3. Physical Construction
-- **Overall Dimensions:** 420 mm height × 72 mm diameter (side-view tube, extended for DRSSTC integration)  
-- **Outer Structural Wall:** Titanium Carbide (TiC) – ultra-high hardness (HV 2800–3200), exceptional wear resistance under high RPM and sonic threshold pressure  
-- **Inner Lining Tube:** PTFE (polytetrafluoroethylene) – chemically inert, ultra-low friction surface for sphere transit  
-- **Sealing:** Double-headed sleeved ferrite at base with pure-iron magnetic return path on one flank  
-- **Carrier Fluid:** 40 % DMSO + Galinstan (room-temperature liquid metal alloy) – optional deionized-water variant for lower conductivity tuning  
+
+- **Overall Dimensions:** 420 mm height × 72 mm diameter (side-view tube, extended for DRSSTC integration)
+- **Outer Structural Wall:** Titanium Carbide (TiC) – ultra-high hardness (HV 2800–3200), exceptional wear resistance under high RPM and sonic threshold pressure
+- **Inner Lining Tube:** PTFE (polytetrafluoroethylene) – chemically inert, ultra-low friction surface for sphere transit
+- **Sealing:** Double-headed sleeved ferrite at base with pure-iron magnetic return path on one flank
+- **Carrier Fluid:** 40 % DMSO + Galinstan (room-temperature liquid metal alloy) – optional deionized-water variant for lower conductivity tuning
 
 ## 4. Exploded-View Parts List
+
 **Refer to accompanying exploded-view diagram for assembly sequence and spatial relationships.**
 
 | Item | Part                              | Material / Description                              | Qty | Function / Notes                          |
@@ -52,30 +58,33 @@ Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “s
 | 12   | Mercurial Reference Points        | Red plasma-channel indicators                       | 3   | Visual & diagnostic plasma references     |
 
 ## 5. Schematic Diagram (DRSSTC + Tube Integration)
+
 **[Schematic Diagram Placeholder – To be replaced with detailed circuit drawing in final layout]**
 
-- **Primary Tesla Coil** – flat spiral copper winding around lower TiC/PTFE section (direct inductive coupling to Galinstan carrier)  
-- **DRSSTC Driver** – IGBT full-bridge with phase-locked feedback loop from tube resonance sensors  
-- **Energy Head Output** – sharp high-frequency breakout via Tesla topload  
-- **Molecular Healing Head** – softer pulsed output with coherence glow at sonic crossover  
-- **Base Ferrite & Return Path** – completes Lorentz-force magnetic circuit  
+- **Primary Tesla Coil** – flat spiral copper winding around lower TiC/PTFE section (direct inductive coupling to Galinstan carrier)
+- **DRSSTC Driver** – IGBT full-bridge with phase-locked feedback loop from tube resonance sensors
+- **Energy Head Output** – sharp high-frequency breakout via Tesla topload
+- **Molecular Healing Head** – softer pulsed output with coherence glow at sonic crossover
+- **Base Ferrite & Return Path** – completes Lorentz-force magnetic circuit
 
 *(Recommended: insert vector schematic here showing DRSSTC bridge, primary/secondary coupling, MHz feedback loop, and tube cross-section)*
 
 ## 6. Active Elements
-- **Resonator Spheres:** Highly purified magnetite (Fe₃O₄) spheres  
-  - Size-scaled vertically (2 mm base → 8 mm top) for progressive mass increase, stronger centrifugal contribution, and richer MHz harmonic spectrum  
-  - **Color code:** black / blue dots  
-- **Ionizing / De-ionizing Nodes**  
-  - Yellow = ionizing node (sharp-angle, high-frequency)  
-  - Green = de-ionizing node (soft-angle, restorative)  
+
+- **Resonator Spheres:** Highly purified magnetite (Fe₃O₄) spheres
+  - Size-scaled vertically (2 mm base → 8 mm top) for progressive mass increase, stronger centrifugal contribution, and richer MHz harmonic spectrum
+  - **Color code:** black / blue dots
+- **Ionizing / De-ionizing Nodes**
+  - Yellow = ionizing node (sharp-angle, high-frequency)
+  - Green = de-ionizing node (soft-angle, restorative)
 - **Mercurial Reference Points:** Red accents (mercury-channel notes for plasma / hydrogen atmosphere studies)
 
 ## 7. Operating Principles
-- **Primary Drive:** DRSSTC driver (IGBT full-bridge with feedback) injects precise, phase-locked MHz bursts into the primary Tesla coil wrapped around the lower tube section. Energy couples into the conductive Galinstan carrier, generating Lorentz forces under high-RPM centrifugal “whip” motion.  
-- **Sonic Regime:** Dual MHz resonance bands locked to tube harmonics (energy head: sharp, aggressive high-frequency “song” with Tesla-style breakout; healing head: softer green-blue pulsing with restorative coherence glow at sonic crossover).  
-- **Fluid Dynamics:** Spheres whip in perpetual-like closed-loop motion through the blue carrier fluid, producing centrifugal force, cavitation nuclei, and harmonic pressure waves synchronized to the DRSSTC frequency.  
-- **Energy Transfer:** “Other side” pure-iron magnetic return path completes the circuit; sonic threshold “snap zone” at mid-column creates visible plasma-like coherence effects and "Plasma Burst" morphology.  
+
+- **Primary Drive:** DRSSTC driver (IGBT full-bridge with feedback) injects precise, phase-locked MHz bursts into the primary Tesla coil wrapped around the lower tube section. Energy couples into the conductive Galinstan carrier, generating Lorentz forces under high-RPM centrifugal “whip” motion.
+- **Sonic Regime:** Dual MHz resonance bands locked to tube harmonics (energy head: sharp, aggressive high-frequency “song” with Tesla-style breakout; healing head: softer green-blue pulsing with restorative coherence glow at sonic crossover).
+- **Fluid Dynamics:** Spheres whip in perpetual-like closed-loop motion through the blue carrier fluid, producing centrifugal force, cavitation nuclei, and harmonic pressure waves synchronized to the DRSSTC frequency.
+- **Energy Transfer:** “Other side” pure-iron magnetic return path completes the circuit; sonic threshold “snap zone” at mid-column creates visible plasma-like coherence effects and "Plasma Burst" morphology.
 
 **Note:** Externally driven by the integrated DRSSTC module for stable, high-efficiency operation (60-85 %).
 
@@ -92,22 +101,23 @@ Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “s
 | Driver Efficiency            | 60–85 %                                | DRSSTC IGBT bridge                         |
 
 ## 9. Safety & Operational Notes
-- PTFE liner prevents gallium creep; TiC outer shell contains sonic pressures and RF fields.  
-- Galinstan is fully contained; DMSO provides viscosity and polarity tuning.  
-- High-frequency cavitation and Tesla breakout may generate localized micro-plasma; eye and ear protection, RF shielding, and Faraday cage recommended during testing.  
+
+- PTFE liner prevents gallium creep; TiC outer shell contains sonic pressures and RF fields.
+- Galinstan is fully contained; DMSO provides viscosity and polarity tuning.
+- High-frequency cavitation and Tesla breakout may generate localized micro-plasma; eye and ear protection, RF shielding, and Faraday cage recommended during testing.
 - “SBP” starburst plasma configuration (spine / cell-membrane analogue) observed at healing-head crossover – documented for further plasma-physics study.
 
-**Status:** Prototype-ready conceptual design with integrated Tesla resonance.  
+**Status:** Prototype-ready conceptual design with integrated Tesla resonance.
 **Version 6 considerations:** automated sphere-size gradient control, optical diagnostics, and MIDI-modulated “MHZ song” audio output.
 
 ---
 
 **How to generate a clean 1-page PDF (recommended):**
 
-1. Copy everything above into a new file named `gali-spinal-tube-v5.md`  
-2. **Easiest options:**  
-   - Paste into **Typora** (File → Export → PDF)  
-   - Or use the free online converter: https://md-to-pdf.fly.dev/  
+1. Copy everything above into a new file named `gali-spinal-tube-v5.md`
+2. **Easiest options:**
+   - Paste into **Typora** (File → Export → PDF)
+   - Or use the free online converter: <https://md-to-pdf.fly.dev/>
    - Or run in terminal: `pandoc gali-spinal-tube-v5.md -o gali-spinal-tube-v5.pdf --pdf-engine=xelatex`
 
 The new **Schematic Diagram** section (Section 5) provides a clean, professional placeholder for the DRSSTC + tube electrical schematic while keeping the entire document to one page. You can easily swap the placeholder text for an actual image or diagram when exporting to PDF.
