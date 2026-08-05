@@ -4,54 +4,46 @@ on:
   push:
     branches: [main]
     paths:
-      - '**/*.md'
-      - '.github/**'
+      - '**.md'
+      - '.github/workflows/docs.yml'
   workflow_dispatch:
-
-# Narrow top-level permissions; override per-job where write is required.
-permissions:
-  contents: read
-
-concurrency:
-  group: docs-toc-${{ github.ref }}
-  cancel-in-progress: true
 
 jobs:
   generate-toc:
-    name: Generate Table of Contents
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
+
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
-          persist-credentials: true
 
       - name: Generate TOC
         uses: technote-space/toc-generator@v4
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TOC_TITLE: '## Table of Contents'
-          COMMIT_MESSAGE: 'docs: update table of contents [skip ci]'
-          FOLDING: false
+          TOC_TITLE: "## Table of Contents"
+          TARGET_PATHS: "README*.md"
           MAX_HEADER_LEVEL: 3
+          FOLDING: false
+          COMMIT_MESSAGE: "docs: update table of contents [skip ci]"
+          COMMIT_NAME: "GitHub Actions"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
 
-  lint-markdown:
-    name: Lint Markdown Files
+  markdown-lint:
     runs-on: ubuntu-latest
     needs: generate-toc
     permissions:
       contents: read
-    steps:
-      - name: Checkout repository (shallow)
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
 
-      - name: Lint Markdown
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run markdownlint
         uses: DavidAnson/markdownlint-cli2-action@v19
         with:
-          globs: '**/*.md'
+          globs: "**/*.md"
