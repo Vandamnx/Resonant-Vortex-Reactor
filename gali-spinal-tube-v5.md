@@ -1,10 +1,12 @@
+#v5 GST "GALI-SPINAL-TUBE"
+
 ---
 title: "GALI-SPINAL-TUBE" - Version 5
 subtitle: "TiC + PTFE + DRSSTC Driver • Integrated Tesla Resonance"
-author: "J.Vandamn"
+author: "J.Vandamn" -Josh Van Wechel 
 date: "06 April 2026"
 geometry: "margin=0.8in"
-fontsize: 11pt
+fontsize: 9pt
 ---
 
 # GALI-SPINAL-TUBE
@@ -17,7 +19,7 @@ fontsize: 11pt
 
 ## 1. Overview
 
-The Gali-Spinal-Tube Version 5 is a vertical, sealed magneto-sonic resonance column enhanced with a Dual-Resonant Solid-State Tesla Coil (DRSSTC) driver. It delivers continuous fluid-dynamic energy transfer and targeted molecular-scale effects through precise MHz Tesla resonance. High-performance materials, liquid-metal carrier fluid, size-scaled magnetite resonators, and dual-frequency sonic heads create a driven, high-RPM whipping motion within a Lorentz-force augmented field.
+The Gali-Spinal-Tube Version 5 is a vertical, sealed magneto-sonic resonance column enhanced with a Dual-Resonant Solid-State Tesla Coil (DRSSTC) driver. It delivers continuous fluid-dynamic energy transfer and targeted molecular-scale effects through preci se MHz Tesla resonance. High-performance materials, liquid-metal carrier fluid, size-scaled magnetite resonators, and dual-frequency sonic heads create a driven, high-RPM whipping motion within a Lorentz-force augmented field.
 
 The system produces two distinct output regimes:
 
@@ -120,10 +122,14 @@ Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “s
    - Or use the free online converter: <https://md-to-pdf.fly.dev/>
    - Or run in terminal: `pandoc gali-spinal-tube-v5.md -o gali-spinal-tube-v5.pdf --pdf-engine=xelatex`
 
-The new **Schematic Diagram** section (Section 5) provides a clean, professional placeholder for the DRSSTC + tube electrical schematic while keeping the entire document to one page. You can easily swap the placeholder text for an actual image or diagram when exporting to PDF.
+#The new **Schematic Diagram** section
+
+section(Section 5) provides a clean, professional placeholder for the DRSSTC + tube electrical schematic while keeping the entire document to one page. You can easily swap the placeholder text for an actual image or diagram when exporting to PDF.
 
 **Ready for further developments
+ 
+#possible upgrades  
 
-*possible upgrades
-tree sap 7-10% mix with dmso 40% integrated into spheres loop fluid
-micro bubble integration is available
+-tree sap 7-10% possible mix with dmso total 40% integrated fluid closed 
+-scaled larger spheres in loop for more powerful effects 
+-micro bubble integration is available 
