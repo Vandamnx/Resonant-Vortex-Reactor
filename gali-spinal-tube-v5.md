@@ -1,9 +1,10 @@
-#v5 GST "GALI-SPINAL-TUBE"
+# v5 GST "GALI-SPINAL-TUBE"
 
 ---
+
 title: "GALI-SPINAL-TUBE" - Version 5
 subtitle: "TiC + PTFE + DRSSTC Driver • Integrated Tesla Resonance"
-author: "J.Vandamn" - Josh Van Wechel 
+author: "J.Vandamn" - Josh Van Wechel
 date: "06 April 2026"
 geometry: "margin=0.8in"
 fontsize: 11
@@ -122,14 +123,14 @@ Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “s
    - Or use the free online converter: <https://md-to-pdf.fly.dev/>
    - Or run in terminal: `pandoc gali-spinal-tube-v5.md -o gali-spinal-tube-v5.pdf --pdf-engine=xelatex`
 
-#The new **Schematic Diagram** section
+# The new **Schematic Diagram** section
 
 section(Section 5) provides a clean, professional placeholder for the DRSSTC + tube electrical schematic while keeping the entire document to one page. You can easily swap the placeholder text for an actual image or diagram when exporting to PDF.
 
 **Ready for further developments
- 
-#possible upgrades  
 
--tree sap 7-10% possible mix with dmso total 40% integrated fluid closed 
--scaled larger spheres in loop for more powerful effects 
--micro bubble integration is available 
+# possible upgrades
+
+-tree sap 7-10% possible mix with dmso total 40% integrated fluid closed
+-scaled larger spheres in loop for more powerful effects
+-micro bubble integration is available
