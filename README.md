@@ -1,117 +1,26 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-# Resonant Vortex Reactor — Gali-Spinal Tube (Version 4)
-
-**Modular Magneto-Fluid Vortex Device for Resonant Energy & Molecular Coherence**
-
-Inertial self-ramping whip head • Magnetite sphere chain • TiC/PTFE layered tube • Micro-bubble nodes with synchronized snap • Dual Energy & Healing variants
-
----
-
 ## Table of Contents
 
-- [Overview](#overview)
-- [Version 4 Key Advances](#version-4-key-advances-july-2026)
-- [Core Architecture](#core-architecture)
-- [Current Status](#current-status)
-- [Simulations](#simulations)
-- [Documentation](#documentation)
-- [License](#license)
-
----
-
-## Overview
-
-The **Resonant Vortex Reactor (Gali-Spinal Tube)** is an experimental magneto-fluid platform that uses controlled high-RPM motion of a magnetized magnetite sphere chain inside a specially engineered tube to generate centrifugal and Lorentz forces, harmonic resonance, and coherent field effects.
-
-Version 4 focuses on refined materials, sphere scaling, dual polarity nodes, and synchronized micro-bubble “snap” impulses. The project explores both practical engineering applications and more speculative theoretical ideas.
-
-This is an ongoing, open creative-engineering project. Contributions, critique, and collaboration are welcome.
-
----
-
-## Version 4 Key Advances (July 2026)
-
-- **TiC + PTFE Layered Gali-Line Tube** – Titanium carbide outer structure with PTFE liner for chemical inertness and low friction
-- **Magnetite Sphere Scaling** – Refined chain of highly purified, size-matched magnetized spheres
-- **Unbalanced Spiny Whip Head** – Inertial self-ramping design for high-RPM drive
-- **Double-Headed Sliced Ferrite Starburst Core + Pure Iron Return Path** – Structured magnetic circuit
-- **Micro Bubble Nodes with Synchronized Snap** – Dual polarity nodes with collective cavitation impulse capability
-
----
-
-## Core Architecture
-
-### Key Physical Mechanisms
-
-- Centrifugal forces from high-RPM sphere chain motion
-- Lorentz force interaction with the magnetic circuit
-- Harmonic resonance in the MHz range
-- Synchronized micro-bubble snap impulses
-
-### Equation Snapshot (Governing Physics)
-
-$$
-m \frac{dv}{dt} = (\sigma V B^{2} L)v - C_{d}\rho A v^{2}
-$$
-
-At equilibrium the Lorentz drive balances fluid drag, allowing sustained operation once the system is ramped.
-
----
-
-## Current Status
-
-**Status (August 2026)**
-
-- Version 4 geometry and materials defined
-- Simulations for fluid dynamics, torsion signatures, and node behavior in progress
-- Physical prototype components under preparation
-- No completed experimental validation of anomalous effects yet
-
-### Next Milestones
-
-- Bench-top prototype assembly
-- Controlled high-RPM testing
-- Sensor package for torque, phase, and micro-anomaly measurements
-- Public documentation of results (positive or negative)
-
----
-
-## Simulations
-
-See the `simulations/` folder for the current Python models, including:
-
-- Full multi-test dashboard
-- Fluid dynamics with DMSO / tree sap variants
-- Torsion-like torque anomaly simulations
-- Node phase-shift models
-
----
-
-## Documentation
-
-- `MASTER_OVERVIEW.md` – High-level project summary
-- `Time-particle-theory.md` – Speculative theoretical layer
-- `specs/` – Technical specification sheets
-- `gali-spinal-tube-v5.md` – Detailed construction notes
-
----
-
-## License
-
-This project is released under the **Blue Oak Model License 1.0.0** for open use.
-
-Full license text: [https://blueoakcouncil.org/license/1.0.0](https://blueoakcouncil.org/license/1.0.0)
-
-### Commercial Use and Patents
-
-While the code and documentation are provided under the permissive Blue Oak license, the following applies to the core inventions:
-
-- Any patents filed on the core technology (Gali-Spinal Tube architecture, Time Particle Theory, micro-bubble node systems, synchronized snap mechanisms, and related concepts) must appropriately credit the originating creators.
-- Any significant financial gain or commercial exploitation of the final complete product will be shared fairly among primary contributors based on time invested and total contributions to the project.
-- Final decisions on revenue sharing, licensing, and commercialization rest with **J. Vandamn (Vandamnx)**, with input from key collaborators.
-
-This notice does not restrict open-source use or modification under the Blue Oak Model License, but governs commercial and patent rights.
+- [Resonant Vortex Reactor — Gali-Spinal Tube (Version 4)](#resonant-vortex-reactor--gali-spinal-tube-version-4)
+  - [Overview&#035; Resonant Vortex Reactor — Gali-Spinal Tube (Version 4)](#overview-resonant-vortex-reactor--gali-spinal-tube-version-4)
+  - [Overview](#overview)
+  - [Key Features (v4)](#key-features-v4)
+  - [Version 4 Key Advances (July 2026)](#version-4-key-advances-july-2026)
+  - [Core Architecture](#core-architecture)
+  - [Variants](#variants)
+    - [Energy Head](#energy-head)
+    - [Molecular Healing Head (new emphasis in v4)](#molecular-healing-head-new-emphasis-in-v4)
+  - [Current Status & Roadmap](#current-status--roadmap)
+  - [Repository Structure](#repository-structure)
+  - [Simulations](#simulations)
+  - [Documentation](#documentation)
+  - [Vision](#vision)
+  - [Equation snapshot (the governing physics)](#equation-snapshot-the-governing-physics)
+  - [Related Links](#related-links)
+  - [License](#license)
+    - [Commercial Use and Patents](#commercial-use-and-patents)
+  - [This notice does not restrict open-source use or modification under the Blue Oak Model License, but governs commercial and patent rights](#this-notice-does-not-restrict-open-source-use-or-modification-under-the-blue-oak-model-license-but-governs-commercial-and-patent-rights)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
