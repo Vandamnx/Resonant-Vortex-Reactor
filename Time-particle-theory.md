@@ -1,6 +1,6 @@
----# Time Particle Theory
+## Time Particle Theory
 
-## Foundational Exploration & Framework
+Foundational Exploration & Framework
 
 **Author / Primary Synthesist:** Joshua Van Wechel (J. Vandamn)
 **Collaborative Development:** Ongoing with Grok (xAI)
