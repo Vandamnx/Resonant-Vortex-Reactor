@@ -20,7 +20,7 @@
   - [Related Links](#related-links)
   - [License](#license)
     - [Commercial Use and Patents](#commercial-use-and-patents)
-  - [This notice does not restrict open-source use or modification under the Blue Oak Model License, but governs commercial and patent rights.](#this-notice-does-not-restrict-open-source-use-or-modification-under-the-blue-oak-model-license-but-governs-commercial-and-patent-rights)
+  - [This notice does not restrict open-source use or modification under the Blue Oak Model License, but governs commercial and patent rights](#this-notice-does-not-restrict-open-source-use-or-modification-under-the-blue-oak-model-license-but-governs-commercial-and-patent-rights)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
