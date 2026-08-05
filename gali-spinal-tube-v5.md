@@ -24,7 +24,7 @@ The system produces two distinct output regimes:
 **Intended applications:** advanced materials research, sonochemical processing, plasma physics, and speculative molecular-healing / coherence studies.
 
 ## 2. Origin & Philosophy
-Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “spinal” architecture, the Gali-Spinal Tube is a modern alchemical engine. It merges frontier materials science with the pursuit of coherent, self-organizing vital forces. Inspired by Tesla’s high-frequency resonance, Schauberger’s implosive flows, and plasma physics, its dual-headed design—aggressive ionizing “song” versus gentle restorative pulsing—embodies the core philosophy: when matter, magnetism, and MHz harmonics align, technology awakens latent intelligence in fluids and fields. The emergent “DEIMOS – Chaos Burst” starburst plasma morphology at sonic crossover demonstrates its bridge between mechanical precision and biological coherence.
+Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “spinal” architecture, the Gali-Spinal Tube is a modern alchemical engine. It merges frontier materials science with the pursuit of coherent, self-organizing vital forces. Inspired by Tesla’s high-frequency resonance, Schauberger’s implosive flows, and plasma physics, its dual-headed design—aggressive ionizing “song” versus gentle restorative pulsing—embodies the core philosophy: when matter, magnetism, and MHz harmonics align, technology awakens latent intelligence in fluids and fields. The emergent “ – Plasma Burst” starburst plasma morphology at sonic crossover demonstrates its bridge between mechanical precision and biological coherence.
 
 ## 3. Physical Construction
 - **Overall Dimensions:** 420 mm height × 72 mm diameter (side-view tube, extended for DRSSTC integration)  
@@ -75,7 +75,7 @@ Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “s
 - **Primary Drive:** DRSSTC driver (IGBT full-bridge with feedback) injects precise, phase-locked MHz bursts into the primary Tesla coil wrapped around the lower tube section. Energy couples into the conductive Galinstan carrier, generating Lorentz forces under high-RPM centrifugal “whip” motion.  
 - **Sonic Regime:** Dual MHz resonance bands locked to tube harmonics (energy head: sharp, aggressive high-frequency “song” with Tesla-style breakout; healing head: softer green-blue pulsing with restorative coherence glow at sonic crossover).  
 - **Fluid Dynamics:** Spheres whip in perpetual-like closed-loop motion through the blue carrier fluid, producing centrifugal force, cavitation nuclei, and harmonic pressure waves synchronized to the DRSSTC frequency.  
-- **Energy Transfer:** “Other side” pure-iron magnetic return path completes the circuit; sonic threshold “snap zone” at mid-column creates visible plasma-like coherence effects and DEIMOS Chaos Burst morphology.  
+- **Energy Transfer:** “Other side” pure-iron magnetic return path completes the circuit; sonic threshold “snap zone” at mid-column creates visible plasma-like coherence effects and "Plasma Burst" morphology.  
 
 **Note:** Externally driven by the integrated DRSSTC module for stable, high-efficiency operation (60-85 %).
 
