@@ -115,10 +115,10 @@ Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “s
 section(Section 5) provides a clean, professional placeholder for the DRSSTC + tube electrical schematic while keeping the entire document to one page. You can easily swap the placeholder text for an actual image or diagram when exporting to PDF.
 
 **Ready for further developments
- 
-**possible next move 
+
+**possible next move
 -tree sap 7-10% possible mix with dmso total 40% integrated fluid closed
 
 -scaled larger spheres in loop for more powerful effects
 
--micro bubble integration 
+-micro bubble integration
