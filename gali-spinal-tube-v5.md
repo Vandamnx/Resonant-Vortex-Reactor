@@ -1,16 +1,13 @@
-# GALI-SPINAL-TUBE
+## GALI-SPINAL-TUBE
 
 -GST- v.5
 
 **Version 5 – TiC + PTFE + DRSSTC Driver, Integrated Tesla Resonance**
 **Technical Specification Sheet**
 
-**Date:** 06 April 2026
-**Designer / Concept Origin:** J.Vandamn
-
 ## 1. Overview
 
-The Gali-Spinal-Tube Version 5 is a vertical, sealed magneto-sonic resonance column enhanced with a Dual-Resonant Solid-State Tesla Coil (DRSSTC) driver. It delivers continuous fluid-dynamic energy transfer and targeted molecular-scale effects through preci se MHz Tesla resonance. High-performance materials, liquid-metal carrier fluid, size-scaled magnetite resonators, and dual-frequency sonic heads create a driven, high-RPM whipping motion within a Lorentz-force augmented field.
+The GTS Version 5 is a vertical, sealed magneto-sonic resonance column enhanced with a Dual-Resonant Solid-State Tesla Coil (DRSSTC) driver. It delivers continuous fluid-dynamic energy transfer and targeted molecular-scale effects through preci se MHz Tesla resonance. High-performance materials, liquid-metal carrier fluid, size-scaled magnetite resonators, and dual-frequency sonic heads create a driven, high-RPM whipping motion within a Lorentz-force augmented field.
 
 The system produces two distinct output regimes:
 
@@ -119,8 +116,8 @@ section(Section 5) provides a clean, professional placeholder for the DRSSTC + t
 
 **Ready for further developments
 
-# coherent upgrades
-
+ 
+**possible additions
 -tree sap 7-10% possible mix with dmso total 40% integrated fluid closed
 
 -scaled larger spheres in loop for more powerful effects
