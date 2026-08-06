@@ -1,4 +1,4 @@
-## Time Particle Theory
+#Time Particle Theory
 
 Foundational Exploration & Framework
 
