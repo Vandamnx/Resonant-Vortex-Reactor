@@ -169,7 +169,7 @@ $$
 
 This project is released under the **Blue Oak Model License 1.0.0** for open use.
 
-Full license text: [https://blueoakcouncil.org/license/1.0.0](https://blueoakcouncil.org/license/1.0.0)
+Full license text: [https://blueoakcouncil.org/license/1.0.0]
 
 ### Commercial Use and Patents
 
