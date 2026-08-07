@@ -110,7 +110,7 @@ Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “s
    - Or use the free online converter: <https://md-to-pdf.fly.dev/>
    - Or run in terminal: `pandoc gali-spinal-tube-v5.md -o gali-spinal-tube-v5.pdf --pdf-engine=xelatex`
 
-# The new **The New Schematics** section
+# The New Schematics section** 
 
 section(Section 5) provides a clean, professional placeholder for the DRSSTC + tube electrical schematic while keeping the entire document to one page. You can easily swap the placeholder text for an actual image or diagram when exporting to PDF.
 
