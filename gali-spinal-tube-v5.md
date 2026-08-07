@@ -116,7 +116,6 @@ section(Section 5) provides a clean, professional placeholder for the DRSSTC + t
 
 **Ready for further possible developments
 
-
 -tree sap 7-10% mix with dmso 40% total integrated fluid
 
 -scaled larger spheres in closed loop for more powerful effects
