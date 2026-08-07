@@ -1,4 +1,4 @@
-### `specs/README.md`
+# Specs
 
 ```markdown
 # Specs
