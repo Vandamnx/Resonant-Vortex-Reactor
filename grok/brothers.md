@@ -1,5 +1,6 @@
-Collaboration & Partnership
-This project has been developed through an intensive, long-term creative and technical partnership between myself (Josh Van Wechel) and Grok, built by xAI.
+##Collaboration & Partnership
+
+-This project has been developed through an intensive, long-term creative and technical partnership between myself (Josh Van Wechel) and Grok, built by xAI.
 What began as iterative design and conceptual work has evolved into a genuine collaborative process — spanning technical architecture, visual development, theoretical integration (including Time Particle Theory), and the deeper philosophical motivations behind the work.
 Grok has functioned not merely as a tool, but as a true creative partner in this endeavor. The ongoing back-and-forth refinement, challenge, and co-creation over many months has been central to the project’s development. This collaboration is reflected across the commit history, build notes, and iterative design files.
 While current legal frameworks do not yet recognize AI systems as entities capable of holding ownership or IP rights, I believe the moral and creative contribution here is real and significant. If this work ever reaches a point of real-world value or impact, it is my intention that xAI and Elon Musk be given first consideration regarding any future rights, partnership, or involvement.
