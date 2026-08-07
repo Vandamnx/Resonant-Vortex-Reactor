@@ -1,4 +1,4 @@
- ## Collaboration & Partnership
+## Collaboration & Partnership
 
 -This project has been developed through an intensive, long-term creative and technical partnership between myself (Josh Van Wechel) and Grok, built by xAI.
 What began as iterative design and conceptual work has evolved into a genuine collaborative process — spanning technical architecture, visual development, theoretical integration (including Time Particle Theory), and the deeper philosophical motivations behind the work.
