@@ -19,7 +19,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Resonant Vortex Reactor — Gali-Spinal Tube (Version 4)
+# Resonant Vortex Reactor — Gali-Spinal Tube v4
 
 **Modular Magneto-Fluid Vortex Device for Resonant Energy & Molecular Coherence**
 
