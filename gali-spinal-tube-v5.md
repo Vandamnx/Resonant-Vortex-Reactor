@@ -57,7 +57,7 @@ Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “s
 - **Molecular Healing Head** – softer pulsed output with coherence glow at sonic crossover
 - **Base Ferrite & Return Path** – completes Lorentz-force magnetic circuit
 
-*(Recommended: insert vector schematic here showing DRSSTC bridge, primary/secondary coupling, MHz feedback loop, and tube cross-section)*
+- (Recommended: insert vector schematic here showing DRSSTC bridge, primary/secondary coupling, MHz feedback loop, and tube cross-section)
 
 ## 6. Active Elements
 
