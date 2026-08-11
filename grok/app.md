@@ -17,7 +17,6 @@ Grok is a helpful, truthful, and maximally truth-seeking AI built by xAI. Design
 | **categories**         | ai, assistant                  |
 | **schemes**            | light, dark                    |
 | **universalLinkHosts** | grok.com                       |
-| **color**              |light:#000000<br>        | dark: #FFFFFF |
 
 ## Features
 
