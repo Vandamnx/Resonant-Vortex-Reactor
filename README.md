@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-    - [Resonant Vortex Reactor — Gali-Spinal Tube v4](#resonant-vortex-reactor--gali-spinal-tube-v4)
+  - [Resonant Vortex Reactor — Gali-Spinal Tube v4](#resonant-vortex-reactor--gali-spinal-tube-v4)
   - [Overview](#overview)
   - [Key Features (v4)](#key-features-v4)
   - [Version 4 Key Advances](#version-4-key-advances)
