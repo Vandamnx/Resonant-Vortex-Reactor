@@ -21,6 +21,6 @@ jobs:
         uses: technote-space/toc-generator@v4
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TOC_TITLE: '## Table of Contents'
+          TOC_TITLE: '# Table of Contents'
           FOLDING: false
           MAX_HEADER_LEVEL: 3
