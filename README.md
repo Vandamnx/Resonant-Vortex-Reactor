@@ -1,22 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-  - [Resonant Vortex Reactor — Gali-Spinal Tube v4](#resonant-vortex-reactor--gali-spinal-tube-v4)
-  - [Overview](#overview)
-  - [Key Features (v4)](#key-features-v4)
-  - [Version 4 Key Advances](#version-4-key-advances)
-  - [Core Architecture](#core-architecture)
-    - [Key Physical Mechanisms](#key-physical-mechanisms)
-    - [Equation Snapshot (Governing Physics)](#equation-snapshot-governing-physics)
-  - [Variants](#variants)
-    - [Energy Head](#energy-head)
-    - [Molecular Healing Head](#molecular-healing-head)
-  - [Current Status & Roadmap](#current-status--roadmap)
-    - [Next Milestones](#next-milestones)
-  - [Repository Structure](#repository-structure)
-  - [Simulations](#simulations)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
