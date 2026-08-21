@@ -33,6 +33,7 @@ The **Resonant Vortex Reactor (Gali-Spinal Tube)** is an experimental magneto-fl
 Version 4 focuses on refined materials, sphere scaling, dual polarity nodes, and synchronized micro-bubble “snap” impulses. The project explores both practical engineering applications and more speculative theoretical ideas.
 
 **Current Status (August 2026):**
+
 Early-stage exploratory project. Core architecture defined, simulations in progress, physical prototype components under preparation. No completed experimental validation of anomalous effects yet.
 
 This is an ongoing, open creative-engineering project. Contributions, critique, and collaboration are welcome.
