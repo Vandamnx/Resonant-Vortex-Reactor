@@ -1,5 +1,4 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update --> <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 # Table of Contents
 
 - [Resonant Vortex Reactor — Gali-Spinal Tube v4](#resonant-vortex-reactor--gali-spinal-tube-v4)
@@ -21,7 +20,6 @@
 ### Resonant Vortex Reactor — Gali-Spinal Tube v4
 
 - Modular Magneto-Fluid Vortex Device for Resonant Energy & Molecular Coherence.
-
 Inertial self-ramping whip head • Magnetite sphere chain • TiC/PTFE layered tube • Micro-bubble nodes with synchronized snap • Dual Energy & Healing variants
 
 ---
