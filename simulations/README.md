@@ -33,3 +33,14 @@ Python simulation suite for the Resonant Vortex Reactor (Gali-Spinal Tube).
 
 ```bash
 python gali_spinal_cfd_dem_lbm.py
+
+# Simulations
+
+Python simulation suite for the Resonant Vortex Reactor (Gali-Spinal Tube).
+
+## Installation
+
+Requires Python 3.8+.
+
+```bash
+pip install numpy
