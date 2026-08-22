@@ -44,3 +44,7 @@ Requires Python 3.8+.
 
 ```bash
 pip install numpy
+
+Optional only if running older scripts scripts that use SciPy or plotting):
+
+pip install scipy matplotlib
