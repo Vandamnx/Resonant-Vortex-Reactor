@@ -47,7 +47,7 @@ This is an ongoing, open creative-engineering project. Contributions, critique, 
 - Double-headed ferrite starburst core + pure iron return path
 - Dual polarity nodes (Yellow ionizing / Green de-ionizing)
 - Micro-bubble nodes with synchronized collective snap
-- Dual fluid options (Galinstan/DMSO mix and deionized/dark water variants)
+- Dual fluid options (Galinstan/DMSO mix and deionized/tree sap with water solution variants)
 - Modular Energy Head and Molecular Healing Head configurations
 
 ---
@@ -60,7 +60,7 @@ This is an ongoing, open creative-engineering project. Contributions, critique, 
 - **Double-Headed Ferrite Starburst Core + Pure Iron Return Path** — Structured magnetic circuit
 - **Micro Bubble Nodes with Synchronized Snap** — Collective cavitation impulse capability
 - **Dual Polarity Nodes** — Yellow (ionizing) and Green (de-ionizing) control points
-- **Dual Fluid Carriers** — Galinstan/DMSO baseline and deionized/dark water variant
+- **Dual Fluid Carriers** — Galinstan/DMSO baseline and a deionized/Tree sap with water  solution variant
 
 ---
 
