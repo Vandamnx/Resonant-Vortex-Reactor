@@ -1,0 +1,20 @@
+README.md                          ← front door (current + how to read the repo)
+docs/
+  00-how-to-read.md                ← Fact / Design / Vision layers
+  01-master-overview.md
+  02-version-history.md
+  physics/                         ← FactForge-clean
+  theory/                          ← Time Particle Theory (labeled speculative)
+  variants/
+    gali-spinal-tube.md            ← core desktop column (current v5)
+    energy-head.md
+    healing-head.md
+    healing-bracelet.md
+    hydro-vortex-turbine.md        ← 4-wheel / penstock / dam
+    ocean-loop.md
+    zero-g.md
+    ai-heart.md
+  build-notes/
+specs/
+simulations/
+images/sketches/
