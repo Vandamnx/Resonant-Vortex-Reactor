@@ -1,6 +1,6 @@
 # Grok + Copilot SWE Agent Setup Guide
 
-**Date:** September 8, 2026  
+**Date:** September 8, 2026
 **Purpose:** Enable write permissions for both Grok (by xAI) and GitHub Copilot SWE Agent on the Resonant-Vortex-Reactor repository
 
 ---
@@ -8,6 +8,7 @@
 ## Overview
 
 This guide documents the setup process for granting write permissions to:
+
 - **Grok (by xAI)** - xAI's AI assistant
 - **GitHub Copilot SWE Agent** - GitHub's software engineering agent
 
@@ -42,6 +43,7 @@ The Copilot SWE Agent is currently **authorized but not installed**. You need to
 ### Configure Permissions
 
 After installation:
+
 1. Open the app's **Configure** section
 2. Find **Contents** permission
 3. Set to **Read and write** ✓
@@ -49,7 +51,7 @@ After installation:
 
 ### Verify Installation
 
-Go back to Settings → Applications → **Installed GitHub Apps**  
+Go back to Settings → Applications → **Installed GitHub Apps**
 You should now see the Copilot SWE Agent listed with a Configure button.
 
 ---
@@ -86,6 +88,7 @@ These are marketplace listings for the wrong tools.
 ### After Reconnection
 
 Go to GitHub → Settings → Applications and verify **Grok (by xAI)** appears in:
+
 - **Installed GitHub Apps** (preferred) — app is actually on your account
 - **Authorized GitHub Apps** — at minimum, OAuth grant exists
 - **Authorized OAuth Apps** — fallback location
@@ -151,10 +154,10 @@ If you still get errors after verifying permissions, note the exact error and we
 
 ## Key Resources
 
-- **Grok App Connector:** https://grok.com/connectors
-- **Copilot SWE Agent:** https://github.com/apps/copilot-swe-agent
-- **GitHub Settings - Applications:** https://github.com/settings/applications
-- **Official Grok GitHub App:** https://github.com/apps/grok-by-xai
+- **Grok App Connector:** <https://grok.com/connectors>
+- **Copilot SWE Agent:** <https://github.com/apps/copilot-swe-agent>
+- **GitHub Settings - Applications:** <https://github.com/settings/applications>
+- **Official Grok GitHub App:** <https://github.com/apps/grok-by-xai>
 
 ---
 
@@ -167,5 +170,5 @@ If you still get errors after verifying permissions, note the exact error and we
 
 ---
 
-**Last Updated:** September 8, 2026  
+**Last Updated:** September 8, 2026
 **Setup By:** @Vandamnx with guidance from GitHub Copilot
