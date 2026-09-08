@@ -7,3 +7,5 @@
 ## Materials
 
 -Steel,base is grounded in earth with spike a 1/3 the whole size and ground level should be a foundation of granite that 3x more than the weight of entire system in its entirety.
+
+ ### Open for further analysis, discussion, alteration. 
