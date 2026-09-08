@@ -1,11 +1,13 @@
 # Experimental Testing – Torsion-like Signatures (v4+)
+ 
+###(Theoretical/Experimental) For Observational Analysis/Data testing 
 
 **Date:** July 2026
 **Focus:** Detecting macroscopic signatures consistent with twist-force standing waves, external centroid stability, and time-particle modulation effects in the Gali-Spinal Tube platform.
 
 ---
 
-## Core Hypothesis
+## Core Hypothesis (Theoretical/Experimental) For Observational Analysis/Data testing 
 
 The Gali-Spinal Tube architecture (unbalanced whip head + magnetized magnetite sphere chain + double-headed ferrite core + pure iron return path) generates sustained **twist-force standing waves** when operated above the sonic threshold. These waves are hypothesized to couple to rigid-body time instants, producing measurable effects beyond conventional electromagnetic, acoustic, or thermal signatures.
 
