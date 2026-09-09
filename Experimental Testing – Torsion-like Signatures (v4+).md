@@ -6,7 +6,7 @@
 
 ---
 
-## Core Hypothesis 
+## Core Hypothesis
 
 The Gali-Spinal Tube architecture (unbalanced whip head + magnetized magnetite sphere chain + double-headed ferrite core + pure iron return path) generates sustained **twist-force standing waves** when operated above the sonic threshold. These waves are hypothesized to couple to rigid-body time instants, producing measurable effects beyond conventional electromagnetic, acoustic, or thermal signatures.
 
