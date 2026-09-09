@@ -12,4 +12,4 @@
 
   -The materials used to produce, provide, or develop the best possible solution for an end product, creation, design, development, or innovative solution for the overall system is in retrospect a fundamentally coherent design of many aspects of cohesive collaboration of components
 
-  -The exemplary implementation of this project in its entirety as concept of a coheren synchronized system of integrated architectural elements is still subject to assessment and analysis.
+  -The exemplary and finalized specification and implementation of this project in its entirety as concept of a coheren synchronized system of integrated architectural elements is still subject to assessment and analysis.
