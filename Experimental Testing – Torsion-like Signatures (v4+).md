@@ -1,7 +1,6 @@
 # Experimental Testing – Torsion-like Signatures (v4+)
 
-### (Theoretical/Experimental) For Observational Analysis/Data testing
-
+- This is(Theoretical/Experimental) For Observational Analysis/Data testing
 **Date:** July 2026
 **Focus:** Detecting macroscopic signatures consistent with twist-force standing waves, external centroid stability, and time-particle modulation effects in the Gali-Spinal Tube platform.
 
