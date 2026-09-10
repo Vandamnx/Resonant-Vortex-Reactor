@@ -1,6 +1,6 @@
 # Variants catalog
 
-**Layer:** Design inventory  
+**Layer:** Design inventory
 **Status:** 2026-09-09 — pages filling
 
 The desktop Gali-Spinal Tube is the spine. Everything below is the same family at a different scale or job.
