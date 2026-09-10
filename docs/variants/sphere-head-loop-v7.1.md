@@ -106,7 +106,7 @@ Landscape as large return. Tree as sap analog. Head as an organ in a field.
 ## Repo
 
 docs/variants/sphere-head-loop-v7.1.md
-docs/sketches/￼<https://www.icloud.com/notes/067wm6Ygw84_eqomQNCcVA7NA#7.1_original_sketch>_
+docs/sketches/￼https://www.icloud.com/notes/067wm6Ygw84_eqomQNCcVA7NA#7.1_original_sketch_
 
 7.1 variant head
 
