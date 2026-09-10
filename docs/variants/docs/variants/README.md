@@ -1,8 +1,8 @@
 # Sphere Head Loop v7.1
 
-**Layer:** Design (Fact physics notes included)  
-**Status:** concept / notebook spec — 7 August 2026  
-**Source drawing:** Josh Van Wechel notebook page, signed 8-7-26  
+**Layer:** Design (Fact physics notes included)
+**Status:** concept / notebook spec — 7 August 2026
+**Source drawing:** Josh Van Wechel notebook page, signed 8-7-26
 **Family:** Resonant Vortex Reactor / Gali-Spinal Tube
 
 This is not a redraw of the tall v5 column. The working head *is* the magnetic circuit.
