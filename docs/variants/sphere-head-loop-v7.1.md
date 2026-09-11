@@ -113,4 +113,3 @@ docs/sketches/￼## Notebook
 Backup: [iCloud note](https://www.icloud.com/notes/067wm6Ygw84_eqomQNCcVA7NA#7.1_original_sketch)
 
 7.1 variant head
-
