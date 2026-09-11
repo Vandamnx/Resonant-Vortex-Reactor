@@ -114,4 +114,3 @@ Backup: [iCloud note](https://www.icloud.com/notes/067wm6Ygw84_eqomQNCcVA7NA#7.1
 
 7.1 variant head
 
- 8-7-26
