@@ -102,14 +102,6 @@ Named after the gallium-based Galinstan alloy (“Gali”) and its vertical “s
 
 ---
 
-**How to generate a clean 1-page PDF (recommended):**
-
-1. Copy everything above into a new file named `gali-spinal-tube-v5.md`
-2. **Easiest options:**
-   - Paste into **Typora** (File → Export → PDF)
-   - Or use the free online converter: <https://md-to-pdf.fly.dev/>
-   - Or run in terminal: `pandoc gali-spinal-tube-v5.md -o gali-spinal-tube-v5.pdf --pdf-engine=xelatex`
-
 -The New Schematics section
 
 This provides a clean, professional placeholder for the DRSSTC + tube electrical schematic while keeping the entire document to one page. You can easily swap the placeholder text for an actual image or diagram when exporting to PDF.
