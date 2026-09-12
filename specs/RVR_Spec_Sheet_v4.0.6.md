@@ -1,6 +1,6 @@
 # Resonant Vortex Reactor — Main Specification (v4.0.6)
 
-**Status:** Active development — July 2026
+**Status:** Active development — July 2026  
 **Focus:** Modular platform architecture, MHD principles, materials, and development roadmap.
 
 ---
@@ -11,7 +11,7 @@ The Resonant Vortex Reactor (RVR) is a modular conceptual platform built around 
 
 Two primary head configurations are defined:
 
-- **Molecular Healing Head (v4.1)** — Restorative, time-reversal-dominant operation with gentler coherence effects.
+- **Molecular Healing Head (v4.1)** — Restorative, operation with gentler coherence effects.
 - **Magnetic Plasma Production Head (v4.0.6)** — Energy-oriented, time-forward-dominant operation with higher-intensity dynamics.
 
 ---
