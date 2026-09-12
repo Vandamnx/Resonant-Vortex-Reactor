@@ -7,10 +7,9 @@
 **The working head *is* the magnetic circuit.
 ￼
 7.1 variant head
-https://github.com/Vandamnx/Resonant-Vortex-Reactor.git
-<iframe src="https://github.com/sponsors/Vandamnx/card" title="Sponsor Vandamnx" height="225" width="600" style="border: 0;"></iframe> 
+<https://github.com/Vandamnx/Resonant-Vortex-Reactor.git>
+<iframe src="https://github.com/sponsors/Vandamnx/card" title="Sponsor Vandamnx" height="225" width="600" style="border: 0;"></iframe>
 ￼
-
 
 ## One-line description
 
