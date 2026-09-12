@@ -2,7 +2,7 @@
 
 **Layer:** Design (Fact physics notes included)
 **Status:** concept / notebook spec — 7 August 2026
-**Source drawing:** Josh Van Wechel 
+**Source drawing:** Josh Van Wechel
 **Family:** Resonant Vortex Reactor / Gali Spinal Tube
 **The working head *is* the magnetic circuit.
 
@@ -84,7 +84,7 @@ A lattice sphere **spins around a stationary central hub** fixed to the spinal c
 - Whip is the northbound pump
 - Stem shares v4/v5 antenna-base hardware
 
-## Vision 
+## Vision
 
 ## Upgrades probabilities
 
