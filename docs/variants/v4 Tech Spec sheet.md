@@ -1,4 +1,5 @@
-GALI-SPINAL TUBE
+# GALI SPINAL TUBE
+
 Version 4 – TiC + PTFE, Sphere-Size Scaling
 Technical Specification Sheet
 Date: 06 April 2026
