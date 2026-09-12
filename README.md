@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 # Table of Contents
 
-- [Resonant Vortex Reactor — Gali-Spinal Tube v4](#resonant-vortex-reactor--gali-spinal-tube-v4)
+- [Resonant Vortex Reactor — (Galinstan) Gali Spinal Tube v4](#resonant-vortex-reactor--gali spinal tube-v4)
 - [Overview](#overview)
 - [Key Features (v4)](#key-features-v4)
 - [Version 4 Key Advances](#version-4-key-advances)
@@ -18,7 +18,7 @@
 - [Simulations](#simulations)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-## Resonant Vortex Reactor — Gali-Spinal Tube v4
+## Resonant Vortex Reactor — Gali Spinal Tube v4
 
 - Modular Magneto-Fluid Vortex Device for Resonant Energy & Molecular Coherence.
 Inertial self-ramping whip head • Magnetite sphere chain • TiC/PTFE layered tube • Micro-bubble nodes with synchronized snap • Dual Energy & Healing variants
@@ -54,7 +54,7 @@ This is an ongoing, open creative-engineering project. Contributions, critique, 
 
 ## Version 4 Key Advances
 
-- **TiC + PTFE Layered Gali-Line Tube** — Structural outer layer with low-friction, chemically inert liner
+- **TiC + PTFE Layered Gali Line Tube** — Structural outer layer with low-friction, chemically inert liner
 - **Magnetite Sphere Scaling** — Refined chain of highly purified, size-matched magnetized spheres
 - **Unbalanced Spiny Whip Head** — Inertial self-ramping geometry for high-RPM drive
 - **Double-Headed Ferrite Starburst Core + Pure Iron Return Path** — Structured magnetic circuit
