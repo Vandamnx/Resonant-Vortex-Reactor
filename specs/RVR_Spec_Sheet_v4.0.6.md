@@ -18,6 +18,8 @@ Two primary head configurations are defined:
 
 ## Governing Physics
 
+m (dv/dt) = (σ V B² L) v − C_d ρ A v²
+
 ### Magnetohydrodynamic (MHD) Self-Sustaining Loop
 
 The core mechanism relies on Lorentz-driven circulation of a conductive fluid (Galinstan or ionized carrier) through a structured magnetic field.
