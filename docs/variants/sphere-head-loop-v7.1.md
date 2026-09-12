@@ -95,13 +95,9 @@ Landscape as large return. Tree as sap analog. Head as an organ in a field.
 - Bracelet / 0-g / hydro / ocean / AI-heart = same loop idea, different driver
 - Last night’s double-sided serpentine + split fluid + external snap weights = **v7.2 sketch**, not this page
 
-## Open questions
+## Upgrades probabilities
 
-1. Is the lattice the coil, or is there a core magnet inside?
-2. One helical start or several channels?
-3. DRSSTC / piezo couple — stem, equator, or both poles?
-4. One snap per orbit, or a quiver?
-5. First bench: dry sphere + steel whip, no fluid — do beads climb north?
+DRSSTC / piezo couple 
 
 ## Repo
 
