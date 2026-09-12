@@ -97,7 +97,7 @@ Landscape as large return. Tree as sap analog. Head as an organ in a field.
 
 ## Upgrades probabilities
 
-DRSSTC / piezo couple 
+DRSSTC / piezo couple
 
 ## Repo
 
