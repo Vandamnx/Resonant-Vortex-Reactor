@@ -2,10 +2,9 @@
 
 **Layer:** Design (Fact physics notes included)
 **Status:** concept / notebook spec — 7 August 2026
-**Source drawing:** Josh Van Wechel notebook page, signed 8-7-26
-**Family:** Resonant Vortex Reactor / Gali-Spinal Tube
-
-This is not a redraw of the tall v5 column. The working head *is* the magnetic circuit.
+**Source drawing:** Josh Van Wechel 
+**Family:** Resonant Vortex Reactor / Gali Spinal Tube
+**The working head *is* the magnetic circuit.
 
 ## One-line description
 
@@ -54,7 +53,7 @@ A lattice sphere **spins around a stationary central hub** fixed to the spinal c
 - Flux through the head, pole to pole
 - Replaces the v5 iron flank return
 
-| | v5 column | Sphere Head Loop v7.1 |
+| Sphere Head Loop v7.1 |
 | --- | --- | --- |
 | Working volume | Vertical tube | Surface + interior of a sphere |
 | Sphere motion | Axial whip | Helical / orbital on the globe |
@@ -104,5 +103,3 @@ DRSSTC / piezo couple
 docs/variants/sphere-head-loop-v7.1.md
 docs/sketches/￼
 [iCloud note](https://www.icloud.com/notes/067wm6Ygw84_eqomQNCcVA7NA#7.1_original_sketch)
-
-7.1 variant head
