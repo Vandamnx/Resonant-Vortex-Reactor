@@ -1,137 +1,93 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-# Table of Contents
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+# Resonant Vortex Reactor — Gali Spinal Tube v5
 
-- [Resonant Vortex Reactor — Gali Spinal Tube v4](#resonant-vortex-reactor--gali-spinal-tube-v4)
-- [Overview](#overview)
-- [Key Features (v4)](#key-features-v4)
-- [Version 4 Key Advances](#version-4-key-advances)
-- [Core Architecture](#core-architecture)
-  - [Key Physical Mechanisms](#key-physical-mechanisms)
-  - [Equation Snapshot (Governing Physics)](#equation-snapshot-governing-physics)
-- [Variants](#variants)
-  - [Energy Head](#energy-head)
-  - [Molecular Healing Head](#molecular-healing-head)
-- [Current Status & Roadmap](#current-status--roadmap)
-  - [Next Milestones](#next-milestones)
-- [Repository Structure](#repository-structure)
-- [Simulations](#simulations)
+Modular magneto-fluid platform: sealed TiC + PTFE column, magnetite sphere chain, DRSSTC-coupled resonance, dual Energy / Healing heads.
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-## Resonant Vortex Reactor — Gali Spinal Tube v4
+**Current line (September 2026):** Gali Spinal Tube **v5.0** is the column spec. **Sphere Head Loop v7.1** is the new head geometry (spinning wrap on a motionless hub). v4 remains in `specs/` as history.
 
-- Modular Magneto-Fluid Vortex Device for Resonant Energy & Molecular Coherence.
-Inertial self-ramping whip head • Magnetite sphere chain • TiC/PTFE layered tube • Micro-bubble nodes with synchronized snap • Dual Energy & Healing variants
+How to read this repo: [docs/00-how-to-read.md](docs/00-how-to-read.md)  
+Fact / Design / Vision stay separate.
 
 ---
 
-## Overview
+## Status
 
-The **Resonant Vortex Reactor (Gali Spinal Tube)** is an experimental magneto-fluid platform that uses controlled high-RPM motion of a magnetized magnetite sphere chain inside a specially engineered tube to generate centrifugal and Lorentz forces, harmonic resonance, and coherent field effects.
+Early-stage exploratory project. Architecture and materials are specified. Simulations exist. Bench parts and jar tests are in progress.
 
-Version 4 focuses on refined materials, sphere scaling, dual polarity nodes, and synchronized micro-bubble “snap” impulses. The project explores both practical engineering applications and more speculative theoretical ideas.
-
-**Current Status (August 2026):**
-
-Early-stage exploratory project. Core architecture defined, simulations in progress, physical prototype components under preparation. No completed experimental validation of anomalous effects yet.
-
-This is an ongoing, open creative-engineering project. Contributions, critique, and collaboration are welcome.
+**Not claiming:** finished energy device, medical device, over-unity, or confirmed Time Particle Theory.
 
 ---
 
-## Key Features (v4)
+## What v5 is
 
-- TiC + PTFE layered tube for chemical inertness and low friction
-- Size-scaled magnetized magnetite sphere chain
-- Unbalanced spiny whip head for inertial self-ramping
-- Double-headed ferrite starburst core + pure iron return path
-- Dual polarity nodes (Yellow ionizing / Green de-ionizing)
-- Micro-bubble nodes with synchronized collective snap
-- Dual fluid options (Galinstan/DMSO mix and deionized/tree sap with water solution variants)
-- Modular Energy Head and Molecular Healing Head configurations
+Vertical sealed column:
 
----
+- TiC outer wall + PTFE liner
+- Size-scaled magnetite spheres (2–8 mm class)
+- Carrier family: DMSO mix (Galinstan path optional / later)
+- Unbalanced whip / antenna base
+- Ferrite base + iron return (column) or N/S through the head (v7.1)
+- DRSSTC driver on the column (IGBT bridge, MHz lock)
+- Dual heads: Energy (ionizing) / Molecular Healing (softer envelope)
 
-## Version 4 Key Advances
-
-- **TiC + PTFE Layered Gali Line Tube** — Structural outer layer with low-friction, chemically inert liner
-- **Magnetite Sphere Scaling** — Refined chain of highly purified, size-matched magnetized spheres
-- **Unbalanced Spiny Whip Head** — Inertial self-ramping geometry for high-RPM drive
-- **Double-Headed Ferrite Starburst Core + Pure Iron Return Path** — Structured magnetic circuit
-- **Micro Bubble Nodes with Synchronized Snap** — Collective cavitation impulse capability
-- **Dual Polarity Nodes** — Yellow (ionizing) and Green (de-ionizing) control points
-- **Dual Fluid Carriers** — Galinstan/DMSO baseline and a deionized/Tree sap with water  solution variant
+Full sheet: [specs/v5.0 Gali Spinal Tube.md](specs/v5.0%20Gali%20Spinal%20Tube.md)
 
 ---
 
-## Core Architecture
+## Head branch — Sphere Head Loop v7.1
 
-### Key Physical Mechanisms
+Not a cap on the v5 tube. The head *is* the magnetic circuit:
 
-- Centrifugal forces from high-RPM sphere chain motion
-- Lorentz force interaction with the magnetic circuit
-- Harmonic resonance in the MHz range
-- Synchronized micro-bubble snap impulses
-- Topological stability of the vortex flow
+- Lattice / wrap **spins**
+- **Stationary hub** fixed to the spine
+- Spheres lock on the race as it spins
+- Whip of the springy steel antenna sends spheres north
+- v7.2 sketches: double-sided serpentine tubes, split fluid, external snap weights
 
-### Equation Snapshot (Governing Physics)
-
-$$
-m \frac{dv}{dt} = (\sigma V B^{2} L)v - C_{d}\rho A v^{2}
-$$
-
-At equilibrium the Lorentz drive balances fluid drag, allowing sustained operation once the system is ramped.
+Page: [docs/variants/sphere-head-loop-v7.1.md](docs/variants/sphere-head-loop-v7.1.md)  
+Catalog: [docs/variants/README.md](docs/variants/README.md)
 
 ---
 
-## Variants
+## Physics in use (Fact)
 
-### Energy Head
+- Centrifugal seating in a spinning race: \(a = \omega^2 r\)
+- Lorentz / MHD on a conductor in **B**: \(\mathbf{f} = \mathbf{J}\times\mathbf{B}\)
+- Unbalance force on snap weights: \(F = m e \omega^2\)
+- Cavitation and sonoluminescence are real lab effects — not automatic in this device
+- Drive vs drag sketch (not a surplus-energy proof):
 
-Aggressive power-oriented configuration focused on high-coherence output and energy extraction.
-
-### Molecular Healing Head
-
-Softer resonance envelope using deionized or dark water carrier fluid, emphasizing restorative coherence effects.
-
----
-
-## Current Status & Roadmap
-
-- Version 4 geometry and materials defined
-- Simulations for fluid dynamics, torsion signatures, and node behavior available
-- Physical prototype components under preparation
-- No completed experimental validation of anomalous effects yet
-
-### Next Milestones
-
-- Bench-top prototype assembly
-- Controlled high-RPM and synchronized snap testing
-- Sensor package for torque, phase, and micro-anomaly measurements
-- Public documentation of results (positive or negative)
+\[
+m\frac{dv}{dt} = (\sigma V B^{2} L)\,v - C_d\rho A v^{2}
+\]
 
 ---
 
-## Repository Structure
+## Repo map
 
-- `simulations/` — Python models and virtual test bench
-- `specs/` — Technical specification sheets
-- `grok/` — Grok API integration tools
-- Root — Project overview and theory documents
+| Path | What |
+| --- | --- |
+| [docs/00-how-to-read.md](docs/00-how-to-read.md) | Fact / Design / Vision |
+| [docs/variants/](docs/variants/) | Heads and scale variants |
+| [docs/sketches/](docs/sketches/) | Notebook photos (add files here) |
+| [specs/](specs/) | v4.x history through v5.0 |
+| [simulations/](simulations/) | Python stubs and benches |
+| [Time-particle-theory.md](Time-particle-theory.md) | Vision layer — labeled speculative |
 
 ---
 
-## Simulations
+## Next bench
 
-Key scripts in the `simulations/` folder:
+1. DMSO + water/sap jar + a few magnetic spheres — mix or layers, roll or clump
+2. Dry beads + whip — do they climb north
+3. Photo of the wrap sketch into `docs/sketches/`
 
-- `full_multi_test_dashboard_dmso_tree_sap.py`
-- `fluid_dynamics.py` / `fluid_dynamics_with_csv.py`
-- `torsion_torque_sim_v3.py`
-- `node_phase_shift_sim.py`
-- Additional stubs for MHD Lorentz, Schumann harmonics, and Healing Head
+---
 
-Run any script with:
+## License
 
-```bash
+See [License.md](License.md).python script_name.py
 python script_name.py
