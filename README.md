@@ -27,7 +27,7 @@ Inertial self-ramping whip head • Magnetite sphere chain • TiC/PTFE layered 
 
 ## Overview
 
-The **Resonant Vortex Reactor (Gali-Spinal Tube)** is an experimental magneto-fluid platform that uses controlled high-RPM motion of a magnetized magnetite sphere chain inside a specially engineered tube to generate centrifugal and Lorentz forces, harmonic resonance, and coherent field effects.
+The **Resonant Vortex Reactor (Gali Spinal Tube)** is an experimental magneto-fluid platform that uses controlled high-RPM motion of a magnetized magnetite sphere chain inside a specially engineered tube to generate centrifugal and Lorentz forces, harmonic resonance, and coherent field effects.
 
 Version 4 focuses on refined materials, sphere scaling, dual polarity nodes, and synchronized micro-bubble “snap” impulses. The project explores both practical engineering applications and more speculative theoretical ideas.
 
