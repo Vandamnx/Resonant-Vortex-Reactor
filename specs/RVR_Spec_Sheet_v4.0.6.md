@@ -1,6 +1,6 @@
 # Resonant Vortex Reactor — Main Specification (v4.0.6)
 
-**Status:** Active development — July 2026  
+**Status:** Active development — July 2026
 **Focus:** Modular platform architecture, MHD principles, materials, and development roadmap.
 
 ---
