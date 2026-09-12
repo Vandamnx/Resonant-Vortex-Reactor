@@ -4,7 +4,13 @@
 **Status:** concept / notebook spec — 7 August 2026
 **Source drawing:** Josh Van Wechel
 **Family:** Resonant Vortex Reactor / Gali Spinal Tube
-**The working head *is* the magnetic circuit.
+**The working head *is* the magnetic circuit.sphere-head-loop-v7.1.md
+￼
+7.1 variant head
+https://github.com/Vandamnx/Resonant-Vortex-Reactor.git
+<iframe src="https://github.com/sponsors/Vandamnx/card" title="Sponsor Vandamnx" height="225" width="600" style="border: 0;"></iframe> 
+￼
+
 
 ## One-line description
 
