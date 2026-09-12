@@ -1,4 +1,4 @@
-# Gali-Spinal Tube v4.2.9 — Technical Specification
+# v4.2.9 — Technical Specification
 
 **Date:** July 2026
 **Focus:** Detailed construction, resonance analysis, and performance targets for the car-antenna whip base variant.
