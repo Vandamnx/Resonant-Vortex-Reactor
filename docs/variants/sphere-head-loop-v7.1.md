@@ -7,15 +7,14 @@
 
 **Layer:** Design (Fact physics notes included)
 **Status:** concept /— 7 August 2026
-**sketch link** | ><https://www.icloud.com/notes/067wm6Ygw84_eqomQNCcVA7NA#7.1_original_|sketch>:**creator Josh Van Wechel**
+**sketch link**<https://www.icloud.com/notes/067wm6Ygw84_eqomQNCcVA7NA#7.1_original_|sketch>:**creator Josh Van Wechel**
 **Family:** Resonant Vortex Reactor / Gali Spinal Tube
 **The working head *is* the magnetic circuit.
 ￼
 7.1 variant head
 <https://github.com/Vandamnx/Resonant-Vortex-Reactor.git>
-<iframe src="https://github.com/sponsors/Vandamnx/card" title="Sponsor Vandamnx" height="225" width="600" style="border: 0;"></iframe>
+<iframe src="https://github.com/sponsors/Vandamnx/card" title="Sponsor Vandamnx"
 ￼
-
 ## One-line description
 
 A lattice sphere **spins around a stationary central hub** fixed to the spinal column. Channels carry **40% DMSO + Galinstan**. Magnetite spheres ride the wrap and **lock harmoniously** as the head spins. Magnetic return closes through the sphere, N to S. Whip action of the springy steel antenna spine sends spheres north.
