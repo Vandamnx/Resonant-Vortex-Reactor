@@ -8,7 +8,8 @@
 **Layer:** Design (Fact physics notes included)
 **Status:** concept
 — 7 August 2026
-**sketch link** <https://www.icloud.com/notes/067wm6Ygw84_eqomQNCcVA7NA#7.1_original_|sketch>: **creator Josh Van Wechel**
+**sketch link** <https://www.icloud.com/notes/067wm6Ygw84_eqomQNCcVA7NA#7.1_original_|sketch>: **creator Josh Van Wechel 
+
 **Family:** Resonant Vortex Reactor / Gali Spinal Tube
 **The working head *is* the magnetic circuit.
 ￼
