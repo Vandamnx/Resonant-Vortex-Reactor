@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+# Table of Contents
+
+- [Resonant Vortex Reactor — Gali-Spinal Tube v5](#resonant-vortex-reactor--gali-spinal-tube-v5)
+  - [Status](#status)
+  - [What v5 is](#what-v5-is)
+  - [Head branch — Sphere Head Loop v7.1](#head-branch--sphere-head-loop-v71)
+  - [Physics in use (Fact)](#physics-in-use-fact)
+  - [Repo map](#repo-map)
+  - [Next bench](#next-bench)
+  - [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Resonant Vortex Reactor — Gali-Spinal Tube v5
 
 Modular magneto-fluid platform: sealed TiC + PTFE column, magnetite sphere chain, DRSSTC-coupled resonance, dual Energy / Healing heads.
