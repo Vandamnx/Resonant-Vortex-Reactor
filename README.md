@@ -19,7 +19,7 @@ Modular magneto-fluid platform: sealed TiC + PTFE column, magnetite sphere chain
 
 **Current line (September 2026):** Gali-Spinal Tube **v5.0** is the column spec. **Sphere Head Loop v7.1** is the new head geometry (spinning wrap on a motionless hub). v4 remains in `specs/` as history.
 
-How to read this repo: [docs/00-how-to-read.md](docs/00-how-to-read.md)  
+How to read this repo: [docs/00-how-to-read.md](docs/00-how-to-read.md)
 Fact / Design / Vision stay separate.
 
 ---
@@ -58,7 +58,7 @@ Not a cap on the v5 tube. The head *is* the magnetic circuit:
 - Whip of the springy steel antenna sends spheres north
 - v7.2 sketches: double-sided serpentine tubes, split fluid, external snap weights
 
-Page: [docs/variants/sphere-head-loop-v7.1.md](docs/variants/sphere-head-loop-v7.1.md)  
+Page: [docs/variants/sphere-head-loop-v7.1.md](docs/variants/sphere-head-loop-v7.1.md)
 Catalog: [docs/variants/README.md](docs/variants/README.md)
 
 ---
