@@ -10,6 +10,7 @@
   - [Repo map](#repo-map)
   - [Next bench](#next-bench)
   - [License](#license)
+  - [Conduct: CODE_OF_CONDUCT.md](#conduct-code_of_conductmd)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
