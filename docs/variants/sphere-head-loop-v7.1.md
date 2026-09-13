@@ -2,14 +2,12 @@
 
 **Layer:** Design (Fact physics notes included)
 **Status:** concept / notebook spec — 7 August 2026
-**Source drawing:** Josh Van Wechel **Sketch link[  
-
-          ]       
- Sphere Head Loop v7.1
+**Source drawing:** Josh Van Wechel
+**Sphere Head Loop v7.1
 
 **Layer:** Design (Fact physics notes included)
-**Status:** concept / notebook spec — 7 August 2026
-**https://www.icloud.com/notes/067wm6Ygw84_eqomQNCcVA7NA#7.1_original_sketch:** Josh Van Wechel
+**Status:** concept /— 7 August 2026
+**sketch link** | >https://www.icloud.com/notes/067wm6Ygw84_eqomQNCcVA7NA#7.1_original_|sketch:** creator Josh Van Wechel**
 **Family:** Resonant Vortex Reactor / Gali Spinal Tube
 **The working head *is* the magnetic circuit.
 ￼
