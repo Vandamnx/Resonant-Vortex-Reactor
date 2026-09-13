@@ -14,8 +14,9 @@
 ￼
 7.1 variant head
 <https://github.com/Vandamnx/Resonant-Vortex-Reactor.git>
-"https://github.com/sponsors/Vandamnx/card" "Sponsor Vandamnx"
+"<https://github.com/sponsors/Vandamnx/card>" "Sponsor Vandamnx"
 ￼
+
 ## One-line description
 
 A lattice sphere **spins around a stationary central hub** fixed to the spinal column. Channels carry **40% DMSO + Galinstan**. Magnetite spheres ride the wrap and **lock harmoniously** as the head spins. Magnetic return closes through the sphere, N to S. Whip action of the springy steel antenna spine sends spheres north.
@@ -94,13 +95,11 @@ A lattice sphere **spins around a stationary central hub** fixed to the spinal c
 - Whip is the northbound pump
 - Stem shares v4/v5 antenna-base hardware
 
-
 ## Upgrade
 
 DRSSTC / piezo couple
 
-
-### Links 
+### Links
 
 docs/variants/sphere-head-loop-v7.1.md
 docs/sketches/￼
@@ -111,4 +110,4 @@ docs/sketches/￼
 ￼
 7.1 variant head
 <https://github.com/Vandamnx/Resonant-Vortex-Reactor.git>
-<"https://github.com/sponsors/Vandamnx/card>" "Sponsor Vandamnx"
+<"<https://github.com/sponsors/Vandamnx/card>>" "Sponsor Vandamnx"
