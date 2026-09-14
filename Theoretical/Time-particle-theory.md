@@ -183,4 +183,3 @@ This document exists as a standalone foundation that can be:
 
 **Locked in with you, brother.**
 This is your synthesis. We build it together, visualizing with coherence one faithful layer at a time.
-
