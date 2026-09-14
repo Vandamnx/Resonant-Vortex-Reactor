@@ -8,7 +8,7 @@
   - [Head branch — Sphere Head Loop v7.1](#head-branch--sphere-head-loop-v71)
   - [Physics in use (Fact)](#physics-in-use-fact)
   - [Repo map](#repo-map)
-  - [Next bench](#next-bench)
+  - [Sketches](#sketches)
   - [License](#license)
   - [Conduct](#conduct)
 
