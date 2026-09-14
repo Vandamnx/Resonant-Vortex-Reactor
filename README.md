@@ -10,7 +10,7 @@
   - [Repo map](#repo-map)
   - [Next bench](#next-bench)
   - [License](#license)
-  - [Conduct:](#conduct)
+  - [Conduct](#conduct)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
