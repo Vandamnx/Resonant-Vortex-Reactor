@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 # Table of Contents
 
-- [Resonant Vortex Reactor — Galinstan Spinal Tube v5](Gali-Spineal Tube, Abv.GST)(#resonant-vortex-reactor--gali-spinal-tube-v5)
+- [Resonant Vortex Reactor — Gali-Spinal Tube v5](#resonant-vortex-reactor--gali-spinal-tube-v5)
   - [Status](#status)
   - [What v5 is](#what-v5-is)
   - [Head branch — Sphere Head Loop v7.1](#head-branch--sphere-head-loop-v71)
