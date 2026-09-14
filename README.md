@@ -95,7 +95,7 @@ m\frac{dv}{dt} = (\sigma V B^{2} L)\,v - C_d\rho A v^{2}
 
 1. DMSO + water/sap jar + a few magnetic spheres — mix or layers, roll or clump
 2.Chain of Magnetic Spheres + whip — do they climb north
-3. Photo of the wrap sketch into `docs/sketches/`
+2. Photo of the wrap sketch into `docs/sketches/`
 
 ---
 
