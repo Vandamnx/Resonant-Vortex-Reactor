@@ -103,6 +103,6 @@ m\frac{dv}{dt} = (\sigma V B^{2} L)\,v - C_d\rho A v^{2}
 
 See [License.md](License.md).
 
-## Conduct: 
+## Conduct
 
 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
