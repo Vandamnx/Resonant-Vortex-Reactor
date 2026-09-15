@@ -1,4 +1,4 @@
-# Resonant Vortex Reactor / Gali-Spinal Tube
+# Resonant Vortex Reactor / Galinstan Spinal Tube
 
 **Master Project Overview**
 **Date:** July 2026
@@ -9,7 +9,7 @@
 
 ## Project Vision
 
-The Resonant Vortex Reactor (Gali-Spinal Tube) is a modular multi-physics platform exploring high-RPM unbalanced rotational systems for potential applications in healing, propulsion, and energy. The work blends rigorous engineering with open-ended theoretical and philosophical inquiry.
+The Resonant Vortex Reactor (Galinstan Spinal Tube) is a modular multi-physics platform exploring high-RPM unbalanced rotational systems for potential applications in healing, propulsion, and energy. The work blends rigorous engineering with open-ended theoretical and philosophical inquiry.
 
 ---
 
