@@ -6,7 +6,7 @@ Date: 06 April 2026
 Designer / Concept Origin: J.Vandamn
 
 1. Overview
-The Gali-Spinal Tube is a vertical, sealed magneto-sonic resonance column designed for continuous fluid-dynamic energy transfer and targeted molecular-scale effects. It combines high-performance advanced materials, liquid-metal carrier fluid, size-scaled magnetite resonators, and dual-frequency sonic heads to create a driven, high-RPM whipping motion within a Lorentz-force augmented field.
+The Galinstan Spinal Tube (GST)= is a vertical, sealed magneto-sonic resonance column designed for continuous fluid-dynamic energy transfer and targeted molecular-scale effects. It combines high-performance advanced materials, liquid-metal carrier fluid, size-scaled magnetite resonators, and dual-frequency sonic heads to create a driven, high-RPM whipping motion within a Lorentz-force augmented field.
 The system produces two distinct output regimes:
 •  Energy Head – aggressive, high-frequency ionizing output
 •  Molecular Healing Head – gentler, restorative de-ionizing coherence
