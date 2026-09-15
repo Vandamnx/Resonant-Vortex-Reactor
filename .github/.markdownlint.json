@@ -1,1 +1,13 @@
-.markdownlint.json
+{
+  "default": true,
+  "MD013": {
+    "line_length": 713,
+    "code_blocks": false,
+    "tables": false,
+    "headings": false
+  },
+  "MD041": true,
+  "MD047": true,
+  "MD032": true,
+  "MD009": { "br_spaces": 0 }
+}
