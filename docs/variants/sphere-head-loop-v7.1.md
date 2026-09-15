@@ -75,7 +75,7 @@ A lattice sphere **spins around a stationary central hub** fixed to the spinal c
 
 ### Stem = springy steel antenna
 
-- Car-antenna / unbalanced whip family
+- Antenna / unbalanced whip family
 - Fluid feed/drain **and** inertial driver
 - Snap sends spheres north
 - Extra unbalance = harder whip, more bearing load, more chance lock breaks
