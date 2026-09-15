@@ -11,7 +11,7 @@ Published physics and handbook materials: Lorentz / MHD, Galinstan, cavitation, 
 
 ## Design
 
-This machine: Gali-Spinal Tube, Sphere Head Loop, whip spine, hub, wheels, bracelet, fluids, node maps.
+This machine: Galinstan Spinal Tube (GST), Sphere Head Loop, whip spine, hub, wheels, bracelet, fluids, node maps.
 
 Design is a buildable hypothesis. It is not a measured result.
 
