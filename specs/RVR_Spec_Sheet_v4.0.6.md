@@ -45,7 +45,7 @@ Key parameters:
 | Magnetite spheres          | Purified Fe₃O₄ (2–8 mm)           | High magnetic susceptibility            | Chain for twist-force generation |
 | Core                       | Double-headed sliced ferrite      | Strong localized field                  | Starburst geometry |
 | Magnetic return path       | Pure iron                         | High permeability, low losses           | Closes the magnetic circuit |
-| Carrier fluid (variant)    | Deionized/dark water or Galinstan | Tunable conductivity and viscosity      | Healing vs. energy heads |
+| Carrier fluid (variant)    |  40% - DMSO Galinstan | Tunable conductivity and viscosity      | Healing vs. energy heads |
 | Whip base (v4.3.2)         | Nitinol or 316L + microchannels   | Resonant mechanical properties          | Car-antenna style whip |
 
 ---
