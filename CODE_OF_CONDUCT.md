@@ -32,4 +32,3 @@ The maintainer (Vandamnx) can edit, close, or ban. No drama required. If somethi
 ## If you want to contribute
 
 Open an issue first for anything bigger than a typo. Bench results beat slogans.
-
