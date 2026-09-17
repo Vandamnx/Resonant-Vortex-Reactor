@@ -6,7 +6,7 @@
 
 <[
 
-	◦	https://github.com/Vandamnx/Resonant-Vortex-Reactor/blob/main/docs/sketches/Sketches.md
+ ◦ https://github.com/Vandamnx/Resonant-Vortex-Reactor/blob/main/docs/sketches/Sketches.md
 ]>
 
 ### v7.0
