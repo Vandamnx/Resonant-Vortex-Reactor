@@ -1,4 +1,5 @@
 # !/usr/bin/env python3
+
 """
 Thixotropic structure kinetics for the Gali-Spinal outer annulus.
 
@@ -55,6 +56,7 @@ def lam_steady(gdot: float, p: HBThixParams) -> float:
     return float(np.clip(p.k_plus / den, p.lam_min, p.lam_max))
 
 # !/usr/bin/env python3
+
 """Adaptive-step thixotropic cycle (embedded Heun / RK2)."""
 
 from **future** import annotations
