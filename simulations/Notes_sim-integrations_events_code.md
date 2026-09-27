@@ -1,20 +1,19 @@
-#!/usr/bin/env python3
+# !/usr/bin/env python3
 """
 Thixotropic structure kinetics for the Gali-Spinal outer annulus.
 
-Stress:   tau = lam * tau_y0 + [K_inf + lam * (K0 - K_inf)] * gamma_dot**n
-Kinetics: dlam/dt = k_plus * (1 - lam) - k_minus * gamma_dot**m * lam
+Stress:   tau = lam *tau_y0 + [K_inf + lam* (K0 - K_inf)] *gamma_dot**n
+Kinetics: dlam/dt = k_plus * (1 - lam) - k_minus * gamma_dot**m* lam
 
 lambda = 1  fully built plug
 lambda = 0  fully broken
 """
 
-from __future__ import annotations
+from **future** import annotations
 
 from dataclasses import dataclass
 
 import numpy as np
-
 
 @dataclass
 class HBThixParams:
@@ -28,31 +27,25 @@ class HBThixParams:
     lam_min: float = 1e-4
     lam_max: float = 1.0
 
-
 def apparent_viscosity(lam: float, gdot: float, p: HBThixParams) -> float:
     g = max(abs(gdot), 1e-12)
     tau = yield_stress(lam, p) + consistency(lam, p) * g**p.n
     return tau / g
 
-
 def yield_stress(lam: float, p: HBThixParams) -> float:
     return lam * p.tau_y0
 
-
 def consistency(lam: float, p: HBThixParams) -> float:
     return p.K_inf + lam * (p.K0 - p.K_inf)
-
 
 def shear_stress(lam: float, gdot: float, p: HBThixParams) -> float:
     g = abs(gdot)
     return yield_stress(lam, p) + consistency(lam, p) * (g ** p.n)
 
-
 def dlam_dt(lam: float, gdot: float, p: HBThixParams) -> float:
-    build = p.k_plus * (1.0 - lam)
-    break_ = p.k_minus * (abs(gdot) ** p.m) * lam
+    build = p.k_plus *(1.0 - lam)
+    break_= p.k_minus* (abs(gdot) ** p.m) * lam
     return build - break_
-
 
 def lam_steady(gdot: float, p: HBThixParams) -> float:
     km = p.k_minus * (abs(gdot) ** p.m)
@@ -61,11 +54,10 @@ def lam_steady(gdot: float, p: HBThixParams) -> float:
         return p.lam_max
     return float(np.clip(p.k_plus / den, p.lam_min, p.lam_max))
 
-
-#!/usr/bin/env python3
+# !/usr/bin/env python3
 """Adaptive-step thixotropic cycle (embedded Heun / RK2)."""
 
-from __future__ import annotations
+from **future** import annotations
 
 from dataclasses import dataclass
 
@@ -80,7 +72,6 @@ from thixotropic_kinetics import (  # or paste the earlier dataclasses in this f
     wait_time,
 )
 
-
 @dataclass
 class AdaptSpec:
     dt_min: float = 2e-7
@@ -92,30 +83,27 @@ class AdaptSpec:
     max_shrink: float = 0.25
     snap_guard: float = 0.25   # max fraction of snap duration per step
 
-
 def _heun_step(lam: float, gdot: float, dt: float, p: HBThixParams):
     """One Heun step. Returns (lam_heun, lam_euler, err)."""
     k1 = dlam_dt(lam, gdot, p)
-    lam_e = lam + dt * k1
+    lam_e = lam + dt *k1
     k2 = dlam_dt(lam_e, gdot, p)
-    lam_h = lam + 0.5 * dt * (k1 + k2)
+    lam_h = lam + 0.5* dt * (k1 + k2)
     lam_h = float(np.clip(lam_h, p.lam_min, p.lam_max))
     lam_e = float(np.clip(lam_e, p.lam_min, p.lam_max))
     err = abs(lam_h - lam_e)
     return lam_h, lam_e, err
 
-
 def _next_snap_edge(t: float, spec: CycleSpec) -> tuple[float, float]:
     """Return (t_on, t_off) of the current or next snap pulse."""
     period = wait_time(spec)
     k = np.floor(t / period)
-    t_on = k * period
+    t_on = k *period
     t_off = t_on + spec.snap_duration_s
     if t >= t_off - 1e-15:
-        t_on = (k + 1) * period
+        t_on = (k + 1)* period
         t_off = t_on + spec.snap_duration_s
     return t_on, t_off
-
 
 def _limit_dt(t: float, dt: float, spec: CycleSpec, a: AdaptSpec) -> float:
     t_on, t_off = _next_snap_edge(t, spec)
@@ -125,7 +113,6 @@ def _limit_dt(t: float, dt: float, spec: CycleSpec, a: AdaptSpec) -> float:
             dt = min(dt, edge - t)
     dt = min(dt, a.snap_guard * spec.snap_duration_s)
     return float(np.clip(dt, a.dt_min, a.dt_max))
-
 
 def run_cycle_adaptive(
     p: HBThixParams | None = None,
@@ -212,8 +199,7 @@ def run_cycle_adaptive(
         "spec": spec,
     }
 
-
-if __name__ == "__main__":
+if **name** == "**main**":
     out = run_cycle_adaptive()
     print(
         f"steps={out['accepted']} rejected={out['rejected']} "
@@ -223,9 +209,10 @@ if __name__ == "__main__":
         f"lam_end={out['lam_end']:.3f}"
     )
 
-
 # ---------------------------------------------------------------------------
+
 # Snap / rebuild cycle
+
 # ---------------------------------------------------------------------------
 
 @dataclass
@@ -238,11 +225,9 @@ class CycleSpec:
     t_end: float = 0.05
     dt: float = 2e-5
 
-
 def wait_time(spec: CycleSpec) -> float:
     f = spec.rpm / 60.0
     return 1.0 / max(spec.snaps_per_rev * f, 1e-12)
-
 
 def gdot_schedule(t: float, spec: CycleSpec) -> float:
     """Square-pulse snaps, otherwise coast shear."""
@@ -251,7 +236,6 @@ def gdot_schedule(t: float, spec: CycleSpec) -> float:
     if phase < spec.snap_duration_s:
         return spec.snap_gdot
     return spec.coast_gdot
-
 
 def run_cycle(
     p: HBThixParams | None = None,
@@ -300,9 +284,10 @@ def run_cycle(
         "spec": spec,
     }
 
-
 # ---------------------------------------------------------------------------
+
 # Fit helpers from bench traces  tau(t) at known gdot
+
 # ---------------------------------------------------------------------------
 
 def fit_k_plus_from_rebuild(t: np.ndarray, tau: np.ndarray) -> float:
@@ -321,7 +306,6 @@ def fit_k_plus_from_rebuild(t: np.ndarray, tau: np.ndarray) -> float:
     A = t[:, None]
     k = float(-np.linalg.lstsq(A, np.log(y), rcond=None)[0][0])
     return max(k, 0.0)
-
 
 def fit_k_minus_from_break(
     t: np.ndarray,
@@ -344,7 +328,6 @@ def fit_k_minus_from_break(
     rate = float(-np.linalg.lstsq(t[:, None], np.log(y), rcond=None)[0][0])
     return max((rate - k_plus) / gdot, 0.0)
 
-
 def print_report(out: dict) -> None:
     p: HBThixParams = out["params"]
     spec: CycleSpec = out["spec"]
@@ -357,8 +340,7 @@ def print_report(out: dict) -> None:
     print(f"mean dissipation {out['mean_power']:.1f} W/m^3")
     print(f"k+={p.k_plus:.1f} 1/s   k-={p.k_minus:.4f}   n={p.n}")
 
-
-if __name__ == "__main__":
+if **name** == "**main**":
     out = run_cycle()
     print_report(out)
 
