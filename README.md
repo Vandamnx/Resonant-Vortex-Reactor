@@ -93,7 +93,7 @@ m\frac{dv}{dt} = (\sigma V B^{2} L)\,v - C_d\rho A v^{2}
 
 ## Sketches
 
-- Photo of the wrap sketch into <https://github.com/Vandamnx/Resonant-Vortex-Reactor/blob/main/docs/sketches/Sketches.md>
+- <https://github.com/Vandamnx/Resonant-Vortex-Reactor/blob/main/docs/sketches/Sketches.md>
 
 ---
 
