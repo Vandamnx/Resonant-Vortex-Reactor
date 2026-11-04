@@ -112,7 +112,7 @@ plt.show()
 -Multi-mode piezoelectric shunt for the Gali-Spinal Tube whip base (v5 active tuning).
 This extends the single-mode RL + gyrator + PLL adaptive work to handle multiple resonances at once — critical because the whip + fluid + sphere chain has several natural frequencies (fundamental ~0.43 kHz for Nitinol, higher modes, and the MHz-range sphere “song” harmonics).
 
-# MDH Lorentz Stub
+## MDH Lorentz Stub
 
 -MHD Lorentz Stub executed (with adjustments for stability).
 -The ODE is quite stiff due to the extremely high conductivity of Galinstan (σ = 3.4e6) — the linear term dominates initially, leading to rapid growth before quadratic drag balances it. I simplified to a shorter run + robust solver; it reaches terminal velocity quickly.
@@ -152,7 +152,7 @@ def lorentz_mhd(t, v, params):
     dvdt = (sigma *V* B**2 * L) * v - (Cd * rho * A) * v**2
     return [dvdt]
 
-## === TUNABLE PARAMETERS (realistic starting point for Galinstan system) ===
+ === TUNABLE PARAMETERS (realistic starting point for Galinstan system) ===
 
 sigma = 3.4e6      # electrical conductivity of Galinstan (S/m) — very high
 V = 0.05           # effective volume / geometry factor
@@ -164,7 +164,7 @@ A = 0.0005         # cross-sectional area of the loop (m²)
 
 params = [sigma, V, B, L, Cd, rho, A]
 
-# Solve the ODE from a small initial velocity
+## Solve the ODE from a small initial velocity
 
 sol = solve_ivp(
     lorentz_mhd,
