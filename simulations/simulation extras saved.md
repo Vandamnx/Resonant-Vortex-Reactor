@@ -1,4 +1,4 @@
-# Developmental py sims
+### Developmental py sims
 
 -Antoniou Gyrator Synthetic Inductor
 
@@ -112,8 +112,10 @@ plt.show()
 -Multi-mode piezoelectric shunt for the Gali-Spinal Tube whip base (v5 active tuning).
 This extends the single-mode RL + gyrator + PLL adaptive work to handle multiple resonances at once — critical because the whip + fluid + sphere chain has several natural frequencies (fundamental ~0.43 kHz for Nitinol, higher modes, and the MHz-range sphere “song” harmonics).
 
-MHD Lorentz Stub executed (with adjustments for stability).
-The ODE is quite stiff due to the extremely high conductivity of Galinstan (σ = 3.4e6) — the linear term dominates initially, leading to rapid growth before quadratic drag balances it. I simplified to a shorter run + robust solver; it reaches terminal velocity quickly.
+# MDH Lorentz Stub 
+
+-MHD Lorentz Stub executed (with adjustments for stability).
+-The ODE is quite stiff due to the extremely high conductivity of Galinstan (σ = 3.4e6) — the linear term dominates initially, leading to rapid growth before quadratic drag balances it. I simplified to a shorter run + robust solver; it reaches terminal velocity quickly.
 Results:
  • Terminal velocity: ~0.42 m/s (equilibrium where Lorentz drive = drag).
  • This demonstrates the “self-sustaining” concept in the model: once circulating, the feedback loop can maintain flow without net external input (in idealized 1D).
@@ -123,6 +125,8 @@ Thoughts:
  • Tuning insight: Increasing B (stronger magnetite field) or L raises terminal v significantly—matches your sphere-chain idea. Realistic prototypes would need precise electrode placement for current paths.
  • Physics reality check: In closed loops, back-EMF and Joule heating limit net gain. Great for controlled pumping/vortex generation, less so for over-unity.
 The full set of sims (fluid, dashboard, audio, MHD) now paints a consistent picture for the RVR concept.
+
+# MHD Lorentz Force Self-Sustaining loop Starter Stub
 
 """
 MHD Lorentz Force Self-Sustaining Loop - Starter Stub
