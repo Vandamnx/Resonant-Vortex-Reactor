@@ -1,6 +1,6 @@
 ### Python Code, Sims, Notes, Stubs
 
--Antoniou Gyrator Synthetic Inductor
+#Antoniou Gyrator Synthetic Inductor
 
 * Antoniou Gyrator Synthetic Inductor
 * For Piezo RL Shunt @ ~430 Hz (L ≈ 0.14 H example)
