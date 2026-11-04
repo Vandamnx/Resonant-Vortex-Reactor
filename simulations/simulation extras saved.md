@@ -106,3 +106,8 @@ plt.xlabel('Time (s)'); plt.ylabel('Total energy proxy')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
 plt.show()
+
+# Multi-mode notes
+
+-Multi-mode piezoelectric shunt for the Gali-Spinal Tube whip base (v5 active tuning).
+This extends the single-mode RL + gyrator + PLL adaptive work to handle multiple resonances at once — critical because the whip + fluid + sphere chain has several natural frequencies (fundamental ~0.43 kHz for Nitinol, higher modes, and the MHz-range sphere “song” harmonics).
