@@ -32,7 +32,7 @@ Vin 1 0 AC 1 SIN(0 1 430)
 .probe V(1) I(R1)
 .end
 
-##Full Closed Loop Fluid Simulation 
+## Full Closed Loop Fluid Simulation
 
 Updated Full Closed-Loop Simulation with Fluid Loading (added effective mass/damping from Galinstan + sphere chain).
 Enhancements
@@ -43,7 +43,7 @@ New Plot (Displacement with fluid + adaptation trace):
 The system remains stable and adaptive. Fluid makes it more realistic for the tube—adaptation is key for performance.
 Full code ready for further mods (e.g., variable RPM, magnetic terms).
 
-##2-mode closed-loop skeleton
+## 2-mode closed-loop skeleton
 
 import numpy as np
 from scipy.integrate import solve_ivp
@@ -53,7 +53,7 @@ def multi_mode_system(t, state, params):
     # state: [x1, v1, q1, L1, x2, v2, q2, L2]
     x1, v1, q1, L1, x2, v2, q2, L2 = state
     m, k1, k2, c, theta, Cp, R, fluid_m, fluid_c = params
-    
+
     m_eff = m + fluid_m
     c_eff = c + fluid_c
     
@@ -76,7 +76,8 @@ def multi_mode_system(t, state, params):
     return [dx1, dv1, dq1, dL1, dx2, dv2, dq2, dL2]
 
 # Example parameters (tune to your measured modes)
-params = [0.012, (2*np.pi*430)**2 * 0.01, (2*np.pi*1200)**2 * 0.01,
+
+params = [0.012, (2*np.pi*430)**2 *0.01, (2*np.pi*1200)**2* 0.01,
           0.6, 0.05, 1e-8, 180, 0.006, 2.5]
 
 sol = solve_ivp(multi_mode_system, [0, 0.15],
