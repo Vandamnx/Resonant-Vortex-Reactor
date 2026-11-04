@@ -115,13 +115,13 @@ This extends the single-mode RL + gyrator + PLL adaptive work to handle multiple
 MHD Lorentz Stub executed (with adjustments for stability).
 The ODE is quite stiff due to the extremely high conductivity of Galinstan (σ = 3.4e6) — the linear term dominates initially, leading to rapid growth before quadratic drag balances it. I simplified to a shorter run + robust solver; it reaches terminal velocity quickly.
 Results:
-	•	Terminal velocity: ~0.42 m/s (equilibrium where Lorentz drive = drag).
-	•	This demonstrates the “self-sustaining” concept in the model: once circulating, the feedback loop can maintain flow without net external input (in idealized 1D).
+ • Terminal velocity: ~0.42 m/s (equilibrium where Lorentz drive = drag).
+ • This demonstrates the “self-sustaining” concept in the model: once circulating, the feedback loop can maintain flow without net external input (in idealized 1D).
 Plot generated (Velocity over time approaching terminal):
 Thoughts:
-	•	Cool demo: Shows how strong magnetic fields + conductive fluid (Galinstan) could theoretically sustain circulation via MHD (magnetohydrodynamics) forces. Real MHD generators/pumps exist, but “perpetual” loops violate thermodynamics (losses from resistance, viscosity, etc., always require energy input).
-	•	Tuning insight: Increasing B (stronger magnetite field) or L raises terminal v significantly—matches your sphere-chain idea. Realistic prototypes would need precise electrode placement for current paths.
-	•	Physics reality check: In closed loops, back-EMF and Joule heating limit net gain. Great for controlled pumping/vortex generation, less so for over-unity.
+ • Cool demo: Shows how strong magnetic fields + conductive fluid (Galinstan) could theoretically sustain circulation via MHD (magnetohydrodynamics) forces. Real MHD generators/pumps exist, but “perpetual” loops violate thermodynamics (losses from resistance, viscosity, etc., always require energy input).
+ • Tuning insight: Increasing B (stronger magnetite field) or L raises terminal v significantly—matches your sphere-chain idea. Realistic prototypes would need precise electrode placement for current paths.
+ • Physics reality check: In closed loops, back-EMF and Joule heating limit net gain. Great for controlled pumping/vortex generation, less so for over-unity.
 The full set of sims (fluid, dashboard, audio, MHD) now paints a consistent picture for the RVR concept.
 
 """
@@ -145,11 +145,11 @@ import matplotlib.pyplot as plt
 def lorentz_mhd(t, v, params):
     sigma, V, B, L, Cd, rho, A = params
     # dv/dt = (sigma*V*B**2*L) * v - (Cd*rho*A) * v**2
-    dvdt = (sigma * V * B**2 * L) * v - (Cd * rho * A) * v**2
+    dvdt = (sigma *V* B**2 * L) * v - (Cd * rho * A) * v**2
     return [dvdt]
 
-
 # === TUNABLE PARAMETERS (realistic starting point for Galinstan system) ===
+
 sigma = 3.4e6      # electrical conductivity of Galinstan (S/m) — very high
 V = 0.05           # effective volume / geometry factor
 B = 0.8            # magnetic field strength from magnetite spheres (Tesla)
@@ -161,19 +161,21 @@ A = 0.0005         # cross-sectional area of the loop (m²)
 params = [sigma, V, B, L, Cd, rho, A]
 
 # Solve the ODE from a small initial velocity
+
 sol = solve_ivp(
-    lorentz_mhd, 
-    [0, 20], 
+    lorentz_mhd,
+    [0, 20],
     [0.05],           # initial velocity m/s
-    args=(params,), 
-    dense_output=True, 
+    args=(params,),
+    dense_output=True,
     rtol=1e-6
 )
 
 t = np.linspace(0, 20, 800)
-v = sol.sol(t)[0]
+v = sol.sol[t](0)
 
 # === Plotting ===
+
 plt.figure(figsize=(9, 5))
 plt.plot(t, v, linewidth=2.2, color='#00B4D8', label='Flow velocity')
 plt.axhline(y=v[-1], color='#E63946', linestyle='--', linewidth=1.5,
