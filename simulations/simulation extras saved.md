@@ -1,4 +1,4 @@
-### Developmental py sims
+# Developmental py sims
 
 -Antoniou Gyrator Synthetic Inductor
 
