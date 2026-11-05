@@ -152,7 +152,7 @@ def lorentz_mhd(t, v, params):
     dvdt = (sigma *V* B**2 * L) * v - (Cd * rho * A) * v**2
     return [dvdt]
 
- === TUNABLE PARAMETERS (realistic starting point for Galinstan system) ===
+## === TUNABLE PARAMETERS (realistic starting point for Galinstan system) ===
 
 sigma = 3.4e6      # electrical conductivity of Galinstan (S/m) — very high
 V = 0.05           # effective volume / geometry factor
@@ -178,7 +178,7 @@ sol = solve_ivp(
 t = np.linspace(0, 20, 800)
 v = sol.sol[t](0)
 
-# === Plotting ===
+## === Plotting ===
 
 plt.figure(figsize=(9, 5))
 plt.plot(t, v, linewidth=2.2, color='#00B4D8', label='Flow velocity')
