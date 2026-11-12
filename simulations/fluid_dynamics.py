@@ -35,6 +35,24 @@ density = 6440         # Galinstan density
 sphere_factor = 0.028  # Contribution from magnetite sphere chain
 threshold = 22.0       # Sonic threshold velocity
 
+def extended_rhs(t, state, params):
+    v, p, q, ni = state
+    # ... existing drive, drag, pressure terms ...
+    
+    # Triboelectric source
+    q_dot_tribo = alpha * density * abs(v) * np.sign(v) * A_contact * (abs(v) > v_thresh)
+    
+    # Leakage
+    q_dot_leak = -q / tau_relax
+    
+    # Ionization
+    ni_dot = beta * abs(q) * n_gas * np.exp(-E_ion / (kT + gamma * abs(q))) - delta * ni**2
+    
+    # Optional electrostatic body force back into velocity
+    F_electro = kappa * q**2
+    
+    return [dvdt + F_electro/m, dpdt, q_dot_tribo + q_dot_leak, ni_dot]
+    
 params = [drive, viscosity, density, sphere_factor, threshold]
 
 # Long run
